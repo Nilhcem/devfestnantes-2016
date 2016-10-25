@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core -->
+    <string name="core_app_name">Mobilization 2016</string>
+
+    <!-- Connection error -->
+    <string name="connection_error">Connection error</string>
+    <string name="connection_error_retry">Retry</string>
+
+    <!-- Drawer Activity -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_header_headline">Mobilization VI</string>
+    <string name="drawer_header_subheadline">22nd of October 2016</string>
+    <string name="drawer_nav_agenda">Agenda</string>
+    <string name="drawer_nav_schedule">My Schedule</string>
+    <string name="drawer_nav_speakers">Speakers</string>
+    <string name="drawer_nav_venue">Venue</string>
+    <string name="drawer_nav_settings">Settings</string>
+
+    <!-- Schedule -->
+    <string name="schedule_browse_sessions">Browse sessions</string>
+    <string name="schedule_browse_sessions_title_pattern">%1$s, %2$s</string>
+    <string name="schedule_pager_day_pattern">EEEE dd</string>
+    <string name="schedule_day_entry_session_time_format">%1$s - %2$s (%3$dmins)</string>
+
+    <!-- Session details -->
+    <string name="session_details_talk_info">%1$s, %2$s - %3$s\n%4$s</string>
+    <string name="session_details_talk_info_date_pattern">MMM dd YYYY</string>
+    <string name="session_details_description">Description</string>
+    <string name="session_details_added">Added to schedule</string>
+    <string name="session_details_removed">Removed from schedule</string>
+    <plurals name="session_details_speakers">
+        <item quantity="one">Speaker</item>
+        <item quantity="other">Speakers</item>
+    </plurals>
+
+    <!-- Speaker details -->
+    <string name="speaker_details_hide">Hide</string>
+
+    <!-- Venue -->
+    <string name="venue_see_location">Locate on map</string>
+    <string name="venue_see_location_error">Error opening map.\nDo you have Google Maps installed?</string>
+    <string name="venue_title">Nowa Hala EXPO</string>
+    <string name="venue_address">aleja Politechniki 4, 93-590 Łódź</string>
+    <string name="venue_info">\nMobilization is a conference dedicated to mobile technologies. The main scope is development of mobile solutions aimed at smartphones and tablets, with particular interest in Android and iOS mobile platforms.\n\nThis is 6th edtion of the conference organised by Java User Group Łódź community for the Community.\n</string>
+    <string name="venue_see_rooms">Rooms Plans</string>
+
+    <!-- Settings -->
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notify_about_my_sessions">Notify me about selected sessions</string>
+    <string name="settings_notify_about_my_sessions_description">Display a notification when selected sessions are about to begin</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_version">Version</string>
+    <string name="settings_about_conf_title">Mobilization VI</string>
+    <string name="settings_about_sources_title">Source code</string>
+    <string name="settings_about_developer_title">Homemade by</string>
+
+    <!-- Sessions reminder -->
+    <string name="reminder_about_to_start">Session %1$s is about to start!</string>
+</resources>
