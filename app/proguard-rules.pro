@@ -20,4 +20,4 @@
 -keepattributes SourceFile,LineNumberTable
 
 # Keep the BuildConfig
--keep class com.nilhcem.mobilization.BuildConfig { *; }
+-keep class com.nilhcem.devfestnantes.BuildConfig { *; }
