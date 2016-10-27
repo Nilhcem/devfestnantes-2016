@@ -12,7 +12,7 @@ import javax.inject.Inject;
 
 import jp.wasabeef.takt.Takt;
 
-public class InternalMobilizationApp extends MobilizationApp {
+public class InternalDevFestApp extends DevFestApp {
 
     /**
      * Change it manually when you want to display the FPS.

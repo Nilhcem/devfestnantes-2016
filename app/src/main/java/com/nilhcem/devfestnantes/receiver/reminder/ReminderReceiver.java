@@ -11,7 +11,7 @@ import android.support.v4.app.TaskStackBuilder;
 import android.support.v7.app.NotificationCompat;
 import android.text.TextUtils;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.R;
 import com.nilhcem.devfestnantes.data.app.model.Session;
 import com.nilhcem.devfestnantes.data.database.dao.SessionsDao;
@@ -37,7 +37,7 @@ public class ReminderReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
         Timber.d("Received session reminder");
-        MobilizationApp.get(context).component().inject(this);
+        DevFestApp.get(context).component().inject(this);
         ReminderReceiverIntentBuilder.inject(intent, this);
         if (sessionId == null) {
             Timber.e("Can't find sessionId. This should not happen");

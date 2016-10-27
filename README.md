@@ -1,10 +1,10 @@
-# Mobilization 2016 Conference App
+# DevFest Nantes 2016 Conference App
 
-Sample app for the "2016 Android Developer Toolbox" talk at Mobilization VI, Łódź
+Sample app for the "2016 Android Developer Toolbox" talk at DevFest Nantes 2016
 
 ## Features
 
-![mobilization Android screenshots][]
+![Android screenshots][]
 
 * See all sessions
 * Manage your schedule
@@ -62,7 +62,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[mobilization Android screenshots]: https://raw.githubusercontent.com/Nilhcem/mobilization-2016/master/assets/screenshots/screenshots.jpg
+[Android screenshots]: https://raw.githubusercontent.com/Nilhcem/mobilization-2016/master/assets/screenshots/screenshots.jpg
 [droidcon PL 2015 mobile app]: https://github.com/droidconpl/droidcon-2015-mobile-app
 [Google I/O app]: https://github.com/google/iosched
 [DroidKaigi 2016 app]: https://github.com/konifar/droidkaigi2016/

@@ -6,8 +6,8 @@ sonarqube {
         def appProject = project(':app')
         def appProjectBuildDir = appProject.buildDir
 
-        property 'sonar.projectKey', 'mobilization'
-        property 'sonar.projectName', 'Mobilization 2016'
+        property 'sonar.projectKey', 'devfestnantes2016'
+        property 'sonar.projectName', 'DevFest Nantes 2016'
         property 'sonar.projectVersion', appProject.android.defaultConfig.versionName
 
         property 'sonar.host.url', 'http://localhost:9000'

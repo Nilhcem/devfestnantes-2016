@@ -6,7 +6,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.receiver.reminder.SessionsReminder;
 
 import javax.inject.Inject;
@@ -37,7 +37,7 @@ public class BootReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        MobilizationApp.get(context).component().inject(this);
+        DevFestApp.get(context).component().inject(this);
         sessionsReminder.enableSessionReminder();
     }
 }

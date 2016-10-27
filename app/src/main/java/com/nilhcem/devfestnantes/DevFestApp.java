@@ -10,12 +10,12 @@ import hugo.weaving.DebugLog;
 import timber.log.Timber;
 
 @DebugLog
-public class MobilizationApp extends Application {
+public class DevFestApp extends Application {
 
     private AppComponent component;
 
-    public static MobilizationApp get(Context context) {
-        return (MobilizationApp) context.getApplicationContext();
+    public static DevFestApp get(Context context) {
+        return (DevFestApp) context.getApplicationContext();
     }
 
     @Override

@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.R;
 import com.nilhcem.devfestnantes.data.app.model.Speaker;
 import com.nilhcem.devfestnantes.ui.core.picasso.CircleTransformation;
@@ -56,7 +56,7 @@ public class SpeakerDetailsDialogFragment extends AppCompatDialogFragment {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        MobilizationApp.get(getContext()).component().inject(this);
+        DevFestApp.get(getContext()).component().inject(this);
     }
 
     @Override

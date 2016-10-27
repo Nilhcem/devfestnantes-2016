@@ -61,7 +61,7 @@ public class AppDumperPlugin implements DumperPlugin {
 
     @Override
     public String getName() {
-        return "mobilization";
+        return "devfest";
     }
 
     @Override

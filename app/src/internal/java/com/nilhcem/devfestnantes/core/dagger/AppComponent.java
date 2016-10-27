@@ -1,6 +1,6 @@
 package com.nilhcem.devfestnantes.core.dagger;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.core.dagger.module.ApiModule;
 import com.nilhcem.devfestnantes.core.dagger.module.AppModule;
 import com.nilhcem.devfestnantes.core.dagger.module.DataModule;
@@ -23,7 +23,7 @@ public interface AppComponent extends InternalAppGraph {
             throw new UnsupportedOperationException();
         }
 
-        public static AppComponent init(MobilizationApp app) {
+        public static AppComponent init(DevFestApp app) {
             return DaggerAppComponent.builder()
                     .appModule(new AppModule(app))
                     .apiModule(new ApiModule())

@@ -10,7 +10,7 @@ import com.nilhcem.devfestnantes.data.database.model.Speaker;
 
 public class DbOpenHelper extends SQLiteOpenHelper {
 
-    private static final String NAME = "mobilization.db";
+    private static final String NAME = "devfestnantes.db";
     private static final int VERSION = 1;
 
     public DbOpenHelper(Context context) {

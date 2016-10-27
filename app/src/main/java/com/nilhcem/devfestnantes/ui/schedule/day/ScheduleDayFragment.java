@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 import com.hannesdorfmann.fragmentargs.annotation.Arg;
 import com.hannesdorfmann.fragmentargs.annotation.FragmentWithArgs;
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.R;
 import com.nilhcem.devfestnantes.data.app.SelectedSessionsMemory;
 import com.nilhcem.devfestnantes.data.app.model.ScheduleDay;
@@ -47,7 +47,7 @@ public class ScheduleDayFragment extends BaseFragment<ScheduleDayPresenter> impl
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
-        MobilizationApp.get(getContext()).component().inject(this);
+        DevFestApp.get(getContext()).component().inject(this);
         super.onCreate(savedInstanceState);
     }
 

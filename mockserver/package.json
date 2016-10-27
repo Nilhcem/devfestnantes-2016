@@ -1,6 +1,6 @@
 {
-  "name": "mobilization-2016-mock-server",
-  "description": "Mobilization 2016 Mock Server",
+  "name": "devfestnantes-2016-mock-server",
+  "description": "DevFest Nantes 2016 Mock Server",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

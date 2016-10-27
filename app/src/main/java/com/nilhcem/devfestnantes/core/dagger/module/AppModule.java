@@ -2,7 +2,7 @@ package com.nilhcem.devfestnantes.core.dagger.module;
 
 import android.app.Application;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 
 import javax.inject.Singleton;
 
@@ -12,9 +12,9 @@ import dagger.Provides;
 @Module
 public final class AppModule {
 
-    private final MobilizationApp app;
+    private final DevFestApp app;
 
-    public AppModule(MobilizationApp app) {
+    public AppModule(DevFestApp app) {
         this.app = app;
     }
 

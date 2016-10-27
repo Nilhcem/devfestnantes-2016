@@ -1,8 +1,8 @@
 package com.nilhcem.devfestnantes.core.dagger;
 
-import com.nilhcem.devfestnantes.InternalMobilizationApp;
+import com.nilhcem.devfestnantes.InternalDevFestApp;
 
 public interface InternalAppGraph extends AppGraph {
 
-    void inject(InternalMobilizationApp app);
+    void inject(InternalDevFestApp app);
 }

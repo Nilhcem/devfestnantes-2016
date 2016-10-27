@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.nilhcem.devfestnantes.MobilizationApp;
+import com.nilhcem.devfestnantes.DevFestApp;
 import com.nilhcem.devfestnantes.R;
 import com.nilhcem.devfestnantes.data.app.SelectedSessionsMemory;
 import com.nilhcem.devfestnantes.data.app.model.ScheduleSlot;
@@ -38,7 +38,7 @@ public class SessionsListActivity extends BaseActivity<SessionsListPresenter> im
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        MobilizationApp.get(this).component().inject(this);
+        DevFestApp.get(this).component().inject(this);
         SessionsListActivityIntentBuilder.inject(getIntent(), this);
 
         super.onCreate(savedInstanceState);

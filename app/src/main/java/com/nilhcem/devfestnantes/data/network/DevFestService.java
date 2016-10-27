@@ -8,7 +8,7 @@ import java.util.List;
 import retrofit2.http.GET;
 import rx.Observable;
 
-public interface MobilizationService {
+public interface DevFestService {
 
     @GET("sessions")
     Observable<List<Session>> loadSessions();
