@@ -5,11 +5,12 @@ import android.support.annotation.NonNull;
 public enum Room {
 
     NONE(0, ""),
-    ROOM_1(1, "Rndity"),
-    ROOM_2(2, "Ericpol"),
-    ROOM_3(3, "Mobica"),
-    ROOM_4(4, "SEQR"),
-    ROOM_5(5, "TomTom");
+    ROOM_1(1, "Titan"),
+    ROOM_2(2, "Belem"),
+    ROOM_3(3, "Tour de Bretagne"),
+    ROOM_4(4, "Graslin"),
+    ROOM_5(5, "Les machines"),
+    ROOM_6(6, "Tour LU");
 
     public final int id;
     public final String label;
