@@ -1,6 +1,6 @@
 package com.nilhcem.devfestnantes.scraper
 
-import com.nilhcem.devfestnantes.scraper.api.MobilizationApi
+import com.nilhcem.devfestnantes.scraper.api.DevFestApi
 import com.nilhcem.devfestnantes.scraper.model.output.Session
 import com.nilhcem.devfestnantes.scraper.model.output.Speaker
 import com.squareup.moshi.JsonAdapter
@@ -10,13 +10,13 @@ import okio.Buffer
 import java.io.File
 
 fun main(args: Array<String>) {
-    with(Scraper(MobilizationApi.SERVICE)) {
+    with(Scraper(DevFestApi.SERVICE)) {
         createJsons(speakers, sessions)
     }
 }
 
 fun createJsons(speakers: List<Speaker>, sessions: List<Session>) {
-    val moshi = MobilizationApi.MOSHI
+    val moshi = DevFestApi.MOSHI
     File("output").mkdir()
 
     File("output/speakers.json").printWriter().use { out ->
