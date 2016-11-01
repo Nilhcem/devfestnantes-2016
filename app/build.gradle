@@ -41,7 +41,7 @@ android {
         resConfigs 'en', 'fr'
 
         buildConfigField 'String', 'GIT_SHA', "\"${gitSha}\""
-        buildConfigField 'String', 'API_ENDPOINT', "\"https://raw.githubusercontent.com/Nilhcem/mobilization-2016/master/assets/api/\""
+        buildConfigField 'String', 'API_ENDPOINT', "\"https://raw.githubusercontent.com/Nilhcem/devfestnantes-2016/master/assets/api/\""
     }
 
     buildTypes {
