@@ -1,307 +1,671 @@
 [
   {
-    "bio": "Jens is an iOS, macOS and backend Developer, writing ObjC since 2006. Currently working at nerdgeschoss helping clients to create awesome apps. Organiser of the monthly swift.berlin meetup. Scaring people with functional concepts since 2014.",
+    "bio": "Hacker @ CloudBees, Docker captain",
+    "github": "ndeloof",
     "id": 1,
-    "name": "Jens Ravens",
-    "photo": "http://2016.mobilization.pl/images/speakers/jens-ravens.jpg",
-    "twitter": "https://twitter.com/jensravens",
-    "website": "http://jensravens.com/"
+    "name": "Nicolas De Loof",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ndeloof.jpg",
+    "title": "Cloudbees",
+    "twitter": "ndeloof"
   },
   {
-    "bio": "Pedro is an iOS Developer at SoundCloud. Open source lover and runner in his free time. He loves coding and contributing with his own libraries. In his spare time, Pedro is starting his own project, GitDo. Open to learning new concepts and paradigms, of late he is interested in architectures like VIPER, and reactive programming.",
+    "bio": "Wassim (@manekinekko) is an ECMAScript hacker and Google Developer Expert in Web Technologies located in Paris. When he is not working on production ready webapps, he loves writing technical articles, hacking on different technologies, talk at conferences and contributing to open source projects (here is a gift for you http://www.codetriage.com).",
+    "github": "manekinekko",
     "id": 2,
-    "name": "Pedro Piñera Buendía",
-    "photo": "http://2016.mobilization.pl/images/speakers/pedro-buendia.jpg",
-    "twitter": "https://twitter.com/pepibumur",
-    "website": "http://www.ppinera.es/"
+    "name": "Wassim Chegham",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/wchegham.jpg",
+    "title": "SFEIR",
+    "twitter": "manekinekko",
+    "website": "https://plus.google.com/u/0/+WassimCheghamJavaScript"
   },
   {
-    "bio": "Konstantin is a Developer at Facebook who is working in React Native team. For the last few years his passions were infrastructure, Continuous Delivery, JavaScript and stable builds. Before joining Facebook he worked at a New Zealand startup Booktrack.",
+    "bio": "Cyril is Head of Mobile & Web at Captain Train and an expert in Android & Google technologies. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. His motto: “Do less, but do it insanely great”",
+    "github": "cyrilmottier",
     "id": 3,
-    "name": "Konstantin Raev",
-    "photo": "http://2016.mobilization.pl/images/speakers/konstantin-raev.jpg",
-    "twitter": "https://twitter.com/bestander_nz"
+    "name": "Cyril Mottier",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/cmottier.jpg",
+    "title": "Captain Train",
+    "twitter": "cyrilmottier",
+    "website": "http://cyrilmottier.com"
   },
   {
-    "bio": "Gautier is an aspiring Software Craftsman in Paris, France. Agile thinker passionate in Android Development, he creates and maintains some FOSS tools to improve productivity. Talk to him about Kotlin, Clean Code, or Free Software and you will see his eyes light up.",
+    "bio": "Architecte logiciel au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client, expertise technique.",
     "id": 4,
-    "name": "Gautier Mechling",
-    "photo": "http://2016.mobilization.pl/images/speakers/gautier-mechling.jpg",
-    "twitter": "https://twitter.com/Nilhcem"
+    "name": "Vincent Ogloblinsky",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/vogloblinsky.jpg",
+    "title": "SII",
+    "twitter": "vogloblinsky",
+    "website": "https://plus.google.com/110496959767269301776"
   },
   {
-    "bio": "Nicola Zaghini is a software architect at Mobile Travel Technologies. He has been developing mobile apps since the first iOS SDK was released, from indie game development to major airlines and travel companies. Prior to that, he enjoyed Java development as professional and researcher in academia. He is currently in charge of mobile architecture in MTT and helps teams deliver amazing apps.",
+    "bio": "Full-Stack développeur chez doyoubuzz.\nJe fais la part belle au code.\nJe m'éclate avec Javascript.",
+    "github": "atomrc",
     "id": 5,
-    "name": "Nicola Zaghini",
-    "photo": "http://2016.mobilization.pl/images/speakers/nicola-zaghini.jpg",
-    "twitter": "https://twitter.com/nzaghini"
+    "name": "Thomas Belin",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/tbelin.jpg",
+    "title": "doyoubuzz",
+    "twitter": "atomrc",
+    "website": "http://blog.thomasbelin.fr"
   },
   {
-    "bio": "Android developer and enthusiastic, DroidCon and community fan, I love the Android environment and pushing the limits of the platform.",
+    "bio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de Docker.\nAncien développeur Java et devops passé par de grosses structures très (trop) lentes à évoluer je met en place des infras basés sur Docker depuis 1 ans et aime essayer de nouvelles choses sur cet écosystème.",
+    "github": "fteychene",
     "id": 6,
-    "name": "Roberto Orgiu",
-    "photo": "http://2016.mobilization.pl/images/speakers/roberto-orgiu.jpg",
-    "twitter": "https://github.com/tiwiz"
+    "name": "Francois Teychene",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/fteychene.jpg",
+    "title": "Tabmo",
+    "twitter": "fteychene",
+    "website": "https://plus.google.com/u/0/+Fran%C3%A7oisTeychene"
   },
   {
-    "bio": "Hi, I'm Eric. I currently work as a contractor at KBC Bank in Belgium creating the next mobile banking app. But if you know me, it is through my open-source work published under the 2312 development name. I build apps, such as RateBeer, and libraries, such as RxCupboard. I love brewing and drinking craft beer, chatting about Android and building with Legos with my son.",
+    "bio": "Intégrateur du Dimanche, dompteur de CSS et tripoteur de HTML, créateur de Alsacreations.com, auteur de quelques livres CSS, Alsacien",
+    "github": "raphaelgoetter",
     "id": 7,
-    "name": "Eric Kok",
-    "photo": "http://2016.mobilization.pl/images/speakers/eric-kok.jpg",
-    "twitter": "https://twitter.com/erickoknl"
+    "name": "Raphael Goetter",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/rgoetter.jpg",
+    "title": "Alsacréations",
+    "twitter": "goetter",
+    "website": "http://goetter.fr"
   },
   {
-    "bio": "Dan Cuellar is the creator of the open source mobile automation framework Appium, and Head of Test Engineering at FOODit in London. Previously, he headed the test organisation at Shazam in London and Zoosk in San Francisco, and worked as a software engineer on Microsoft Outlook for Mac, and other products in the Microsoft Office suite. He is an advocate of open source technologies and technical software testing. He earned a Bachelor’s degree in Computer Science, with a minor in Music Technology, from the world-renowned School of Computer Science at Carnegie Mellon University in Pittsburgh.",
+    "bio": "Je suis un passionné d'UX et d'interfaces, mais aussi de jeux vidéo, de robots, et de toute la culture geek, en général. Je travaille chez Microsoft France en tant qu'évangéliste design/UX et UI.",
     "id": 8,
-    "name": "Dan Cuellar",
-    "photo": "http://2016.mobilization.pl/images/speakers/dan-cuellar.jpg",
-    "twitter": "https://twitter.com/thedancuellar"
+    "name": "Michel Rousseau",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/mrousseau.jpg",
+    "title": "Microsoft",
+    "twitter": "rousseau_michel"
   },
   {
-    "bio": "Roman has been working with Android for more than 6 years. You can find him delivering fixes and new features to a plenty of Android libraries and frameworks including support library, Robolectric, Madge, Spoon, Retrofit, and Helium. At Stanfy he is working on a customized Android OS for in-room tablets installed at hotels by KEYPR.",
+    "bio": "Ayant travaillé en SSII, Agence web et Free-Lance, j'ai trouvé ma place depuis quelques années chez un pure player, LaFourchette qui m'a offert l'opportunité de quitter Paris pour venir travailler à Nantes en septembre 2015.\nD'un point de vue language j'utilise essentiellement PHP,  bash et javascript. Je travaille au quotidien avec Symfony 2, RabbitMQ,  jenkins, new relic, kibana et de plus en plus docker.\nPersonnellement trois long voyages en Asie et en Amérique du sud m'ont énormément enrichis et j'aime pratiquer régulièrement un ensemble de disciplines sportives.",
+    "github": "olaurendeau",
     "id": 9,
-    "name": "Roman Mazur",
-    "photo": "http://2016.mobilization.pl/images/speakers/roman-mazur.jpg",
-    "twitter": "https://twitter.com/roman_mazur",
-    "website": "https://www.stanfy.com/"
+    "name": "Olivier Laurendeau",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/olaurendeau.jpg",
+    "title": "LaFourchette"
   },
   {
-    "bio": "Markus Junginger is an Android enthusiast and developer since the first SDK release in 2007. His mobile software company greenrobot focuses on high quality Android apps and open source libraries, which are widely used by many popular apps. Markus has 15+ years experience with Java and did his first mobile software project in 2001. He regularly speaks and writes about Android, gives Android trainings, and develops for Android.",
+    "bio": "Java Software Engineer @SerliFr. Eclipse Che commiter. OpenSource Minded. @parisjug crew member.",
+    "github": "sunix",
     "id": 10,
-    "name": "Markus Junginger",
-    "photo": "http://2016.mobilization.pl/images/speakers/markus-junginger.jpg",
-    "twitter": "https://twitter.com/greenrobot_de"
+    "name": "Sun Seng David TAN",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/stan.jpg",
+    "title": "Serli",
+    "twitter": "sunsengdavidtan",
+    "website": "http://blog.sunix.org"
   },
   {
-    "bio": "Madis is currently working on JRebel for Android at ZeroTurnaround. He started hacking on Android apps on a T-Mobile G1 more than 7 years ago and quickly grew a particular interest in build systems and developer tooling. His previous experience includes working on the Android Platform team at Spotify and producing multiple apps at Mobi Lab. During his free time he likes to dabble around with guitars and home recording.",
+    "bio": "Consultant et Formateur Web chez Zenika Lille depuis avril 2015. Je suis spécialisé dans AngularJS / Angular 2 / TypeScript et l'Accessibilité Web. Speaker à ses heures perdues. Aime également les bières (et oui quand on vient de Lille c'est normal...), le Jazz et la Domotique.\nPlusieurs expériences en tant que conférencier, notamment depuis septembre 2015 autour du sujet Angular2.\n- ESLint au Jug Summer Camp et ChtiJS\n- Angular 2 : ChtiJUG, LyonJS, GDG Paris, GDG Nantes, Meetup AngularJS Grenoble, Devoxx, RivieraDev, ...",
+    "github": "Gillespie59",
     "id": 11,
-    "name": "Madis Pink",
-    "photo": "http://2016.mobilization.pl/images/speakers/madis-pink.jpg",
-    "twitter": "https://twitter.com/madisp"
+    "name": "Emmanuel DEMEY",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/edemey.jpg",
+    "title": "Zenika",
+    "twitter": "EmmanuelDemey"
   },
   {
-    "bio": "I'm a Software Engineer, lover of new technologies, passionate about challenges and motivated to continue learning current coding languages and methodologies. I'm a regular attendee at developers’ events and meetups. I'm a Testing-lover and I try to share my knowledge collaborating @AprendiendoTDD and @theEvnt facilitating coding dojos, katas and other stuff.",
+    "bio": "Je suis développeur depuis 10 ans. J'ai évolué pendant longtemps sur des stack java et android. Depuis maintenant 3 ans je m’intéresse plus en profondeur au Web et à ses nouvelles possibilités. J'ai ainsi optenu le status de GDE (Google Developer Expert) cette année sur la partie WebTechnology. En dehors du travail, je suis co-fondateur du GDG Nantes, organisateur du DevFest Nantes, co-créateur des Nantes Wit et organisateur de Devoxx4Kids ",
+    "github": "jefbinomed",
     "id": 12,
-    "name": "Pablo Guardiola",
-    "photo": "http://2016.mobilization.pl/images/speakers/pablo-guardiola.jpg",
-    "twitter": "https://twitter.com/guardiola31337",
-    "website": "http://pguardiola.com/"
+    "name": "Jean-François Garreau",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jgarreau.jpg",
+    "title": "Lucca",
+    "twitter": "jefbinomed",
+    "website": "https://jefbinomed.fr"
   },
   {
-    "bio": "Jorge Castillo is a spanish experienced Android developer currently working as an Android Engineer at Jobandtalent, an important International product company from Madrid. Its main work is focused on Open Source projects.",
+    "bio": "Expert AccessiWeb en évaluation",
     "id": 13,
-    "name": "Jorge Castillo",
-    "photo": "http://2016.mobilization.pl/images/speakers/jorge-castillo.jpg",
-    "twitter": "https://twitter.com/JorgeCastilloPr",
-    "website": "http://jorgecastillo.xyz/"
+    "name": "Nathalie Rolland",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/nrolland.jpg",
+    "title": "Indépendante",
+    "twitter": "nroll82"
   },
   {
-    "bio": "Android Developer since 5 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually I'm living in Thailand working for Agoda. I'm Google Developer Expert and I enjoy being involve with the android community.",
+    "bio": "Antoine est \"Code Rider\" chez Restlet où il s'attache à créer de bons produits. C'est un développeur passionné qui s'intéresse également à l'UX et au bon vin.",
+    "github": "antoine-richard",
     "id": 14,
-    "name": "Inaki Villar",
-    "photo": "http://2016.mobilization.pl/images/speakers/inaki-villar.jpg",
-    "twitter": "https://twitter.com/inyaki_mwc"
+    "name": "Antoine Richard",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/arichard.jpg",
+    "title": "Restlet",
+    "twitter": "richard_antoine"
   },
   {
-    "bio": "Enrique López-Mañas is a Google Developer Expert and independent IT consultor. He has been working with mobile technologies and learning from then since 2007.  He is an avid contributor to the Open Source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 Open Source Java Contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence over hundreds of the best startups from all around the globe. He is also a Big Data and Machine Learning aficionado. On his free time he rides his bike, take pictures and travel until extenuation. He also writes literature and enjoys all kind of arts. He also likes to write about himself in third person.",
+    "bio": "ai un but : aider les équipes à produire des logiciels utiles aux utilisateurs finaux. Pour cela, je les accompagne en intégrant les équipes de développement ou en les assistant dans leur transition agile. Impliquée dans la communauté agile nantaise, je participe également à l'organisation de l'Agile Tour de Nantes. Femme développeuse, je suis également co-fondatrice du groupe Women In Technology à Nantes, dont le but est de promouvoir les femmes dans la technique. Dans ce cadre, je participe également aux initiations à la programmation à destination des enfants avec des initiatives telles que les Devoxx4Kids ou les coding goûters.",
     "id": 15,
-    "name": "Enrique López Mañas",
-    "photo": "http://2016.mobilization.pl/images/speakers/enrique-manas.jpg",
-    "twitter": "https://twitter.com/eenriquelopez",
-    "website": "http://www.lopez-manas.com/"
+    "name": "Cécilia Bossard",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/cbossard.jpg",
+    "twitter": "ceciliaBossard",
+    "website": "https://javagile.wordpress.com/"
   },
   {
-    "bio": "Hugo is a software engineer who has worked on enterprise, desktop and mobile software products. Since the introduction of Android he has been steadily focussing on developing for Android only, resulting in his first app in 2009. Hugo has released several open source libraries and tools to help him and other developers build better software. He’s a Google Developer Expert for Android and one of the organizers of the Dutch Android User Group. With his company Little Robots, he focuses on smart use of Android in every possible way.",
+    "bio": "Geek à toute heure, Guillaume Membré travaille principalement autour des technologies Java/JavaEE mais aussi sur des problématiques d'intégration continue, de qualimétrie. Mission après mission sur Nantes, il a eu l'occasion d'avoir une expérience diversifiée qui l'a amenée à occuper différentes responsabilités, à faire dèv et de l'infra, et maintenant de la mise en place d'outils devops.",
     "id": 16,
-    "name": "Hugo Visser",
-    "photo": "http://2016.mobilization.pl/images/speakers/hugo-visser.jpg",
-    "twitter": "https://twitter.com/botteaap",
-    "website": "http://littlerobots.nl/"
+    "name": "Guillaume Membré",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/gmembre.jpg",
+    "title": "Zenika",
+    "twitter": "GuillaumeMembre",
+    "website": "http://www.monbook.tech"
   },
   {
-    "bio": "Saúl Díaz has been developing Android since 2010. Currently he is working on Chicisimo, and Android app selected as one of the best of 2015 on Spain, and featured on Google Play by the Google Play Team. Previously he has worked as Android Lead on Fever and Android Developer on Tuenti, two renowned companies of Spain. He is an active member of the Spanish Android Development community and regularly participates in events and conferences.",
+    "bio": "Jeff Abrahamson (ré)invente l'analyse de livres électroniques chez Jellybooks.\nDerrière chaque livre se cache une histoire dans les données de lecture : à trouver, à éclairer, à visualiser.\nJeff anime le Nantes Machine Learning Meetup et co-organise des formations professionnelles en DataScience à travers l'initiative ML Week.",
+    "github": "JeffAbrahamson",
     "id": 17,
-    "name": "Saúl Díaz",
-    "photo": "http://2016.mobilization.pl/images/speakers/saul-diaz.jpg",
-    "twitter": "https://twitter.com/sefford"
+    "name": "Jeff Abrahamson",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jabrahamson.jpg",
+    "title": "Jellybooks",
+    "twitter": "Jeff_Abrahamson",
+    "website": "https://google.com/+JeffAbrahamson"
   },
   {
-    "bio": "Paco Estevez is an Android developer at Hudl by day, and an opensource contributor by night. He's been an early adopter of new paradigms and techniques in Android, like reactive programming with RxJava or a functional approach to Kotlin. You can follow his thoughts on his blog, or his libraries",
+    "bio": "Biberonné aux joies du Cobol, engraissé aux compotes Php, gavé de Java, sustenté aux sucreries C#, repu au Flex et finalement dernièrement nourri en intraveineuse de JS, je me délecte en ce moment d'IOT. A mes heures perdues, je cuisine également quelques mets open source.",
+    "github": "lynchmaniac",
     "id": 18,
-    "name": "Francisco Estevez",
-    "photo": "http://2016.mobilization.pl/images/speakers/francisco-estevez.jpg",
-    "website": "http://www.pacoworks.com"
+    "name": "Vincent Piard",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/vpiard.jpg",
+    "title": "SQLI",
+    "twitter": "lynchmaniacPL"
   },
   {
-    "bio": "Frederik is a young computer science student from Germany who's chief interest is creating and inventing new stuff. He currently works as an Android Developer at trivago. Besides writing code he loves jumping out of airplanes and to go skiing.",
+    "bio": "Je suis développeur depuis 2001.\nJe me suis lancé dans l'aventure Android en 2011 et suis en mode \"one man startup\" sur des applications indépendantes depuis 2014.",
     "id": 19,
-    "name": "Frederik Schweiger",
-    "photo": "http://2016.mobilization.pl/images/speakers/frederik-schweiger.jpg"
+    "name": "Pierre Benayoun",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/pbenayoun.jpg",
+    "title": "Le cabinet numérique",
+    "twitter": "Pierre_Benayoun",
+    "website": "https://plus.google.com/+PierreBenayoun"
   },
   {
-    "bio": "Creator of PhoneNumberKit, Interpolate and Localize.",
+    "bio": "Originaire de Nantes, il effectue ses études à la faculté des sciences de Nantes dans le domaine de l'informatique. Après un Master 2 Pro en 2006, il travaille dans le domaine du jeux vidéo chez Succubus Interactive avant de rejoindre Expandium en 2008 en tant que Software Engineer spécialisé dans le traitement realtime.",
+    "github": "ddway2",
     "id": 20,
-    "name": "Roy Marmelstein",
-    "photo": "http://2016.mobilization.pl/images/speakers/roy-marmelstein.jpg",
-    "twitter": "https://twitter.com/marmelroy",
-    "website": "http://marmelroy.github.io/"
+    "name": "Pierre Salmon",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/psalmon.jpg",
+    "title": "Expandium"
   },
   {
-    "bio": "iOS Developer for over 5 years. Big proponent of OSS and head organizer of CocoaHeads Costa Rica.",
+    "bio": "Développeur Java passionné chez Ippon Technologies depuis plus d'1 an.\nJe me suis focalisé ces derniers temps sur le monitoring avec ELK, le développement de microservices avec SpringBoot, et un peu de DevOps avec la gestion dynamique d'une plateforme de production avec Docker et Mesos.",
     "id": 21,
-    "name": "Esteban Torres",
-    "photo": "http://2016.mobilization.pl/images/speakers/esteban-torres.jpg",
-    "twitter": "https://twitter.com/esttorhe",
-    "website": "http://estebantorr.es"
+    "name": "Jérémie Monsinjon",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jmonsinjon.jpg",
+    "twitter": "jmonsinjon",
+    "website": "https://plus.google.com/108876182616078672534"
   },
   {
-    "bio": "Kostiantyn Koval is in Love with Swift. He is a contributor to Swift open source, a Swift High Performance book author and just a person who loves to type some code at night :)",
+    "bio": "Après 5 ans à développer des hyperviseurs pour les systèmes embarquées et un cours passage en SSII je m'occupe à depuis 5 ans du développement du debugger intégré à Simics une solution de simulation de cartes électroniques multi-architectures et plus récemment du développement d'outils Cloud pour ce dernier.\nInscrit dans le mouvement Software Craftmanship j'essaie au jour le jour d'améliorer mes pratiques et celles de mon équipe.\nQuand il me reste un peu de temps, j'anime des ateliers pour Makerspace56 une association que j'ai co-fondé en 2012, un pilier du FabLab de Vannes.",
+    "github": "tytouf",
     "id": 22,
-    "name": "Kostiantyn Koval",
-    "photo": "http://2016.mobilization.pl/images/speakers/kostiantyn-koval.jpg",
-    "twitter": "https://twitter.com/KostiaKoval",
-    "website": "http://kostiakoval.github.io/"
+    "name": "Christophe Augier",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/caugier.jpg",
+    "twitter": "tytouf"
   },
   {
-    "bio": "Marius has been developing mobile & web applications ever since he graduated from university. In more recent years, he's shifted his focus towards mobile development, especially iOS and Objective-C, and since it came out a growing portion of Swift. With his work on the CocoaPods team, he hasn't forgotten about Ruby either.",
+    "bio": "Le jour: je suis Solution Architect chez GitHub.\nLa nuit: je \"geek\" en JavaScript, Golo, Java, Groovy, ... avec une addiction sévère à L'IOT et au JS\nJ’ai aussi le plaisir d’être co-organisateur de la conférence Lyonnaise Mix-IT.",
+    "github": "k33g",
     "id": 23,
-    "name": "Marius Rackwitz",
-    "photo": "http://2016.mobilization.pl/images/speakers/marius-rackwitz.jpg",
-    "twitter": "https://twitter.com/mrackwitz"
+    "name": "Philippe Charrière",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/pcharriere.jpg",
+    "title": "GitHub",
+    "twitter": "k33g_org",
+    "website": "https://github.com/k33g/files"
   },
   {
-    "bio": "Software Engineer, currently working as an iOS Developer at mBank. Working full time in Swift. Switched to Mobile apps development after +4 years of C/C++ and writing distributed VoIP servers. Experienced in maintaining large and long term projects.",
+    "bio": "Olivier Guillet développe depuis plus de 15 ans : jeux vidéos, sites internet ou applications mobiles, le plus souvent sur des technologies web. Egalement passionné de réalité virtuelle, réalité augmentée et innovations en tout genre, aux frontières de l'informatiques et du cyberpunk.",
     "id": 24,
-    "name": "Tomasz Gebarowski",
-    "photo": "http://2016.mobilization.pl/images/speakers/tomasz-gebarowski.jpg"
+    "name": "Olivier Guillet",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/oguillet.jpg",
+    "title": "Emotic",
+    "twitter": "OlivierGuillet"
   },
   {
-    "bio": "Software engineer at mBank. Lifelong learner. Can’t stand workarounds and spaghetti code.",
+    "bio": "Développeur backend chez SFEIR. Après 10 années de Java dans des environnements distribués, il a récemment sauté le pas pour le Go chez ses clients dans le domaine de l'IoT. Il vous propose aujourd'hui de partager son expérience pour la première fois.",
+    "github": "sebastienfr",
     "id": 25,
-    "name": "Wojciech Łukaszuk",
-    "photo": "http://2016.mobilization.pl/images/speakers/wojciech-lukaszuk.jpg",
-    "twitter": "https://twitter.com/wojteklu",
-    "website": "http://wojteklu.com/"
+    "name": "Sébastien Friess",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/sfriess.jpg",
+    "title": "SFEIR",
+    "twitter": "sebastienfriess",
+    "website": "https://sebastienfr.fr/"
   },
   {
-    "bio": "Fan of technological solutions that makes life easier. From own proof-of-concept hardware, to designed IoT devices or ConnectedCar solution. Carpenter with love and passion, claiming that the best way to relax is a chisel, plane and a piece of wood. With testing and security connected from childhood - Everything can be breached and everything can be automated :)",
+    "bio": "Développeur chez SQLI et co-responsable du pôle NoSQL/Big Data, je suis passionné par la sécurité, Java, les WebAPIs et le NoSQL.\nJe suis impliqué dans la communauté Neo4j et ai créé un meetup nantais sur le sujet.",
+    "github": "kbiger",
     "id": 26,
-    "name": "Michał Kucharski",
-    "photo": "http://2016.mobilization.pl/images/speakers/michal-kucharski.jpg"
+    "name": "Kevin Biger",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/kbiger.jpg",
+    "title": "SQLI",
+    "twitter": "kevin_biger",
+    "website": "https://plus.google.com/+KevinBiger"
   },
   {
-    "bio": "Agnieszka is currently working as a UI Designer at Polidea. She graduated from the Warsaw Academy of Arts in 2016. Her bottomless passion for humans beings developed her constant question-asking attitude, and her love for design and design thinking lead her career path toward Service and Experience Design. It is during a Summer School at the Copenhagen Institute of Interactive Design that she polished her skills in user research, prototyping, design thinking, basic programming, workability and teamwork",
+    "bio": "Passionné d’informatique et tombé dedans tout petit je suis actuellement formateur, coach agile chez Conserto.",
     "id": 27,
-    "name": "Agnieszka Czyżak",
-    "photo": "http://2016.mobilization.pl/images/speakers/agnieszka-czyzak.jpg"
+    "name": "GILLES BRIEUX",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/gbrieux.jpg",
+    "title": "Conserto",
+    "website": "gbrieux"
   },
   {
-    "bio": "For the past 4 years Rafał has been involved in mobile app development. He is Currently working at Polidea as a senior iOS developer. Passionate programmer and triathlete he is constantly looking for new thrills both in app development and in sports",
+    "bio": "Jean-Philippe traîne autour de Hudson/Jenkins depuis plus de 8 ans. Il a mis en place des environnements d'Intégration Continue complexe puis poussé les Best Practices de Déploiement Continu dans des entreprises de toutes tailles.\nIl est maintenant Solutions Architect chez CloudBees et côtoie tous les jours des usages très diversifiés (voir exotiques) de Jenkins en entreprise.",
+    "github": "jpbriend",
     "id": 28,
-    "name": "Rafał Tulwin",
-    "photo": "http://2016.mobilization.pl/images/speakers/rafal-tulwin.jpg"
+    "name": "Jean-Philippe Briend",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jbriend.png",
+    "title": "CloudBees",
+    "twitter": "jpbriend"
   },
   {
-    "bio": "Started as a back-end web developer, quickly found a new home in iOS. In ❤︎ with Swift, learning and everything that's being reactive. Endorsed on LinkedIn for coffee skills.",
+    "bio": "CTO at FretLink, developer at heart",
+    "github": "ptitfred",
     "id": 29,
-    "name": "Łukasz Mróz",
-    "photo": "http://2016.mobilization.pl/images/speakers/lukasz-mroz.jpg"
+    "name": "Frédéric Menou",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/fmenou.jpg",
+    "title": "FretLink",
+    "twitter": "ptit_fred"
   },
   {
-    "bio": "Lead Android developer, speaker, GDG Lviv organizer and co-founder of GDG Kremenchuk, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars",
+    "bio": "I have always been addicted by innovation since 12 years old. My last passion (and work, of course) is Android, but in the past I managed Windows and Linux infrastructures for middle-size companies (250-300 empl.) and developed applications using .NET and Java.\nNow, in Google, I’m taking care of the developers ecosystem, providing technical contents, organizing events, teaching in universities, working with communities and much more.\nIn parallel, I’ve been actively participating to the Italian technical social scene, giving talk on a wide range of topics: courses on Android development, Linux training, security matters etc, and my degree in “Communication Science” strengthened my communication and human-relation skills.",
+    "github": "rainbowbreeze",
     "id": 30,
-    "name": "Anton Minashkin",
-    "photo": "http://2016.mobilization.pl/images/speakers/anton-minashkin.jpg"
+    "name": "Morresi Alfredo",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/amorresi.jpg",
+    "title": "Google",
+    "twitter": "rainbowbreeze"
   },
   {
-    "bio": "MasterCoder is a national programming contest organized by Cybercom Poland. It is a competition created by programmers for programmers. This year over 300 participants from Poland joined the unique coding challenge. The challenge includes accomplishing ten different tasks in ten days. It fosters creativity, innovation and enables participants to test their ability to perform under pressure. During the finals we will see 10 best ranked coders who will fight for MasterCoder title and Samsung Galaxy S6, Samsung Gear VR, AirWheel X3, GoPro Hero Session Full HD! The semi-final will include a variety of tasks such as live programming. Join the audience and become a part of real programming battle !!!",
+    "bio": "Romain est développeur depuis plus de 15 ans et a été CTO dans une startup (Connecthings) et pour une solution d'un grand groupe (Orange). Passé  par le web et les backend, il est maintenant concentré sur l'innovation et l'environnement mobile. Il est également organisateur au Paris Android User Group et un des fondateurs de Droidcon Paris.",
+    "github": "romemore",
     "id": 31,
-    "name": "Master Coder",
-    "photo": "http://2016.mobilization.pl/images/speakers/master-coder.jpg"
+    "name": "Menetrier Romain",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/rmenetrier.jpg",
+    "twitter": "romemore",
+    "website": "RomainMenetrier"
   },
   {
-    "bio": "Passionate problem solver with experience in algorithms prototyping, software design and optimization for mobile platforms. Perfectionist in public presentations. On a daily basis working for Tomtom, trying to squeeze the self-driving-car's imagination within an SD card, and the cars' eyes and ears within the tip of a side mirror",
+    "bio": "Nicolas a rejoint Google en 2008 et a travaillé sur de multiple produits pour développeurs comme les APIs Google Drive, Checkout, Tasks, Gmail, Contacts, Calendar, Base mais aussi Dart, Material Design Lite, Espresso et OAuth 2. Plus récemment il a rejoint l'équipe Firebase et se concentre sur l'aspect Web.",
+    "github": "nicolasgarnier",
     "id": 32,
-    "name": "Krzysztof Kudryński",
-    "photo": "http://2016.mobilization.pl/images/speakers/krzysztof-kudrynski.jpg"
+    "name": "Nicolas Garnier",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ngarnier.jpg",
+    "title": "Google",
+    "twitter": "nivco",
+    "website": "https://google.com/+NicolasGarnier"
   },
   {
-    "bio": "An enthusiast of all aspects of big data processing and all technologies that bring this enthusiasm from dream into reality. Blazej has been working in Tele Atlas and TomTom for eight years and has been involved in many challenging projects related to image and laser data processing. Blazej is one of the authors of automated traffic signs detection systems and bird-eye image mosaic creation tools. Currently he works as Expert Software Engineer in areas of Deep Neural Networks for object detection and recognition.",
+    "bio": "Développeur autodidacte depuis 12 ans, professionnel depuis 3, je n'ai de cesse d'apprendre de nouvelles techniques pour améliorer mon savoir-faire. J'aime étudier les langages, de C# à Haskell. Au quotidien, ce sont Java et JavaScript qui m'accaparent. Je suis consultant et formateur chez Zenika. Enfin, j'apprécie les jeux de code : vous me retrouverez par exemple sur CodinGame, et là, c'est Python.",
+    "github": "hgwood",
     "id": 33,
-    "name": "Błażej Kubiak",
-    "photo": "http://2016.mobilization.pl/images/speakers/blazej-kubiak.jpg"
+    "name": "Hugo Wood",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/hwood.jpg",
+    "title": "Zenika",
+    "twitter": "mercury_wood"
   },
   {
-    "bio": "",
+    "bio": "Je suis architecte des solutions IOT au sein d l’IOT Line de SOPRA STERIA. Dans le cadre de la mise en œuvre de solutions innovantes pour répondre aux nouveaux besoins métiers de nos clients, je développe des solutions innovantes sur la base de plateformes Intel Edison ou open source. Je réalise aussi des prestations de conseil à la réalisation d’applications basées sur des lunettes et casques connectés applicables dans l’industrie 4.0. J'ai également la responsabilité du projet SOPRA STERIA « Inspect’Drone » pour inspecter via drone des infrastructures (barrages, bateaux, avion, bâtiments, …) afin de détecter des défauts automatiquement. Ce projet est un démonstrateur technologique du savoir-faire de SOPRA STERIA dans le domaine du traitement d’image, du pilotage automatique et collaboratif et de la cybersécurité.",
     "id": 34,
-    "name": "Michał Mela",
-    "photo": "http://2016.mobilization.pl/images/speakers/michal-mela.jpg"
+    "name": "Jerome Delbut",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jdelbut.jpg",
+    "title": "Sopra Steria"
   },
   {
-    "bio": "",
+    "bio": "Architecte logiciel, développeur full stack avec une prédilection pour les technologies Java, JavaScript, NoSQL (MongoDB, Elasticsearch) et Big Data (Hadoop). Développe depuis l’époque du ZX Spectrum et pense toujours que c’est la meilleure machine de tous les temps (même si Spark a du mal a tourné dessus) !",
+    "github": "bbonnin",
     "id": 35,
-    "name": "Michał Kamiński",
-    "photo": "http://2016.mobilization.pl/images/speakers/michal-kaminski.jpg"
+    "name": "Bruno Bonnin",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/bbonnin.jpg",
+    "twitter": "_bruno_b_"
   },
   {
-    "bio": "A software engineer currently working at HARMAN Connected Services mainly focused on Android applications development, however not afraid of deeper layers of the system. Team leader in the project dedicated to advanced head unit software development for Mercedes cars.",
+    "bio": "Je suis un dév fullstack Java et Js, curieux de tout : devops, nouvelles technologies, agilité, craftmanship, développement personnel.",
+    "github": "benjaminfontaine",
     "id": 36,
-    "name": "Jacek Rondio",
-    "photo": "http://2016.mobilization.pl/images/speakers/jacek-rondio.jpg"
+    "name": "Benjamin Fontaine",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/bfontaine.jpg",
+    "title": "Zenika",
+    "twitter": "benjifontaine5",
+    "website": "https://plus.google.com/100218727706940554885"
   },
   {
-    "bio": "A software engineer, Linux enthusiast. Currently working at Harman Connected Services, assumed a role of Bluetooth and Telephony architect in one of the projects. Doesn’t like Facebook and Twitter, likes to build things and getting his hands dirty. Afterwards, he always washes his hands.",
+    "bio": "Mikaël Barbero is a passionate software engineer. He started programming at the age of 10 with BASIC and hasn't stopped since. After having led and contributed to many Eclipse project (especially in the modeling area), he is now a senior Eclipse platform developer and is also taking care of the release engineering for the Eclipse Foundation. A hacker at heart, Mikael likes to untangle everyday things to reveal their design layers. It lets him understand how things are built and what makes them beautiful. To him, good design is not only attractive, but also targeted for a purpose.",
+    "github": "mbarbero",
     "id": 37,
-    "name": "Krzysztof Sasiak",
-    "photo": "http://2016.mobilization.pl/images/speakers/krzysztof-sasiak.jpg"
+    "name": "Mikaël Barbero",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/mbarbero.jpg",
+    "title": "Eclipse Foundation Europe GmbH",
+    "twitter": "mikbarbero",
+    "website": "http://mikael-barbero.tumblr.com"
   },
   {
-    "bio": "Software engineer at Harman Connected Services department. Strongly interested in c/c++ programming in Unix-like systems. Works on the project where implements the solutions, which integrate mobile applications together with cars’ head units.",
+    "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
     "id": 38,
-    "name": "Łukasz Kwieciński",
-    "photo": "http://2016.mobilization.pl/images/speakers/lukasz-kwiecinski.jpg"
+    "name": "Didier Girard",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/dgirard.jpg",
+    "title": "SFEIR",
+    "twitter": "DidierGirard"
   },
   {
-    "bio": "Software engineer working at Harman Connected Services. Strongly interested in c++ programming in Unix-like systems. Works on the project where implements the solutions allowing to integrate mobile applications together with cars' head units.",
+    "bio": "Je suis actuellement DevOps chez Sparklane, premier éditeur français de solutions d’intelligence commerciale et marketing dédiées au marché B2B, en France et en Europe.\nPour garantir la performance et la haute disponibilité des solutions BigData de la société, j’ai en charge la définition de l’architecture Cloud, la mise en œuvre et le maintien en conditions opérationnelles de l’ensemble des plateformes.\nDans le cloud Amazon (AWS), nous déployons et organisons nos composants dans des technologies fiables et managées : Docker, Rancher, pour assurer performance et haute disponibilité.",
     "id": 39,
-    "name": "Mariusz Kaźmierczak",
-    "photo": "http://2016.mobilization.pl/images/speakers/mariusz-kazmierczak.jpg"
+    "name": "Olivier Bierlaire",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/obierlaire.jpg",
+    "title": "Sparklane",
+    "twitter": "obierlaire"
   },
   {
-    "bio": "Handling all aspects of marketing and communications in rndity; Ola balances between creation, strategy and technology to properly verify and develop new business ideas. Restless advocate of empirical studies, not a big fan of „we already know it all” kind of chitchats ;-) Believes that there is always something you can learn and explore in any situation.",
+    "bio": "Fabien JUIF a baigné dans l’informatique depuis son adolescence. Il installait sa première Gentoo stage 1 en 1ère pour migrer vers Archlinux quelques années après.\nPour lui pacman n’est pas un jeu, on ne rigole pas avec ça.\nPassioné par la création de jeux vidéos, il s’intéressa très rapidement au développement logiciel. Avec 6 années dans le métier et une veille technologique personnelle depuis son plus jeune âge, il est devenu un peu touche à tout GNU+Linux, Docker, développement backend, développement frontend, etc\nChez Zenika, son attrait du moment c'est le Web, et plus précisément le développement ReactJS.\nIl espère pouvoir partager un peu de sa passion avec vous !",
+    "github": "fabienjuif",
     "id": 40,
-    "name": "Ola Rosińska",
-    "photo": "http://2016.mobilization.pl/images/speakers/ola-rosinska.jpg"
+    "name": "Fabien JUIF",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/fjuif.jpg",
+    "title": "Zenika"
   },
   {
-    "bio": "UX designer with strong believe that in order to carry out the project perfectly you simply need pencil, open mind and aroused empathy. He always combines user needs with clients’ business objectives using available UX techniques. Not so secretly addicted to the post-it notes.",
+    "bio": "Jan Jongboom is working as Developer Evangelist IoT for ARM, and always on the lookout on how to connect the web with the real world. He loves doing unexpected stuff with sensors, flying drones from the browser, and breaking phones. Before ARM he was a core contributor to Firefox OS, and he wrote hundreds of patches to various open source projects. He's also a Google Developer Expert for Web technologies.",
+    "github": "janjongboom",
     "id": 41,
-    "name": "Piotrek Stanisławski",
-    "photo": "http://2016.mobilization.pl/images/speakers/piotrek-stanislawski.jpg"
+    "name": "Jan Jongboom",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jjongboom.jpg",
+    "title": "ARM",
+    "twitter": "janjongboom",
+    "website": "http://janjongboom.com"
   },
   {
-    "bio": "Addicted to speed, challenges and technology, constantly using his passion to design and develop challenging projects. Bartek has been involved in mobile technologies ever since first smartphones, always looking for the best tech mixes that deliver highest performance possible.",
+    "bio": "Chef de projet technique coloré mobilité indus, chez @groupecreative. J’interviens sur des applications à dominante graphique en C++\\Qt\\QML ou en JAVA FX optimisées par des shaders et OpenCL. Mon dada : Les SIG et les projections cartographiques.",
     "id": 42,
-    "name": "Bartek Świercz",
-    "photo": "http://2016.mobilization.pl/images/speakers/bartek-swiercz.jpg",
-    "twitter": "https://twitter.com/BartekSwiercz"
+    "name": "Frédéric Serreau",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/fserreau.jpg",
+    "title": "Groupe Créative"
   },
   {
-    "bio": "Full time Android developer with still short but pretty solid work background. Paweł has managed to work on couple of most popular mobile apps in Poland. He knows how to point out worst mistakes in the project without making everyone miserable. „Quiet one” type of guy ;-)",
+    "bio": "Électrotechnicien de formation Axel s'engage à 17 ans dans la Marine Nationale, s'échappe de son sous-marin nucléaire 3 ans plus tard, redécouvre le développement à 24 ans, développeur back (JAVA, PHP) pendant quelques années il s'enfuit cette fois définitivement de l'armée en 2012 pour se lancer dans une carrière de développeur front. Sa seule constance finalement c'est de savoir apprécier une bonne bière.",
+    "github": "acateland",
     "id": 43,
-    "name": "Paweł Czapnik",
-    "photo": "http://2016.mobilization.pl/images/speakers/pawel-czapnik.jpg"
+    "name": "Axel Cateland",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/acateland.jpg",
+    "title": "Talend",
+    "twitter": "catelandaxel",
+    "website": "google.com/+axelcateland"
   },
   {
-    "bio": "ERICSSON Managers R&D",
+    "bio": "Alexis Hassler est développeur Java depuis la fin du siècle dernier. Il exerce son métier comme indépendant, en codant, mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de déployer leurs applications Java.\nIl a été un des fondateurs du LyonJUG (lyonjug.org) et aide à l’organisation de Mix-IT (mix-it.fr), l'excellente conférence annuelle à Lyon.",
+    "github": "hasalex",
     "id": 44,
-    "name": "Marek Wyrwicki",
-    "photo": "http://2016.mobilization.pl/images/speakers/marek-wyrwicki.jpg"
+    "name": "Alexis Hassler",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ahassler.jpg",
+    "twitter": "AlexisHassler"
   },
   {
-    "bio": "ERICSSON Managers R&D",
+    "bio": "Yvonnick développeur javascript chez Zenika Nantes. Curieux et passionné, il aime découvrir les dernières technologies du Web. Adepte d’AngularJs depuis déjà deux ans, il se met à explorer le Flux avec React. Social, il écume les meetups nantais en quête de nouveautés.",
+    "github": "frinyvonnick",
     "id": 45,
-    "name": "Christer Lindell",
-    "photo": "http://2016.mobilization.pl/images/speakers/christer-lindell.jpg"
+    "name": "Yvonnick Frin",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/yfrin.jpg",
+    "title": "Zenika",
+    "twitter": "YvonnickFrin"
+  },
+  {
+    "bio": "My day to day my mission is to help developers create successful and quality apps.\nAs a passionate web developer, I am always discovering and playing with new web technologies !",
+    "github": "tagazok",
+    "id": 46,
+    "name": "Olivier Leplus",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/oleplus.jpg",
+    "title": "Google",
+    "twitter": "olivierleplus"
+  },
+  {
+    "bio": "Matthieu Gioani, consultant, designer & facilitateur, accompagne les équipes projet et les managers sur les problématiques de design, d’émergence des besoins et d’innovation depuis plus de 6 ans.",
+    "id": 47,
+    "name": "Matthieu Gioani",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/mgioani.jpg",
+    "twitter": "Matt_Gio",
+    "website": "http://www.design-en-entreprise.fr/"
+  },
+  {
+    "bio": "Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a une quinzaine d'années déjà. Passionné d'informatique, dans laquelle il est tombé depuis tout petit, il a découvert Java en 1997 et depuis il n'a pas arrêté de bosser autour.\nAprès quelques années comme architecte technique au Crédit Mutuel Arkea, Horacio travaille actuellement à Cityzen Data, entreprise spécialisée dans le domaine du Big Data. Il est aussi leader et cofondateur du FinistJUG, le JUG francophone le plus proche de la Silicon Valley.\nPassionné par le développement web et tout ce qui gravite autour des composants web, Horacio a été nommé Google Developer Expert (GDE) en Web Technologies et Polymer.",
+    "github": "LostInBrittany",
+    "id": 48,
+    "name": "Horacio Gonzalez",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/hgonzalez.jpg",
+    "title": "Cityzen Data",
+    "twitter": "+LostInBrittany",
+    "website": "https://plus.google.com/u/0/+LostInBrittany"
+  },
+  {
+    "bio": "Tech Lead, Manager Google Cloud Platform, Java.",
+    "github": "ludoch",
+    "id": 49,
+    "name": "Ludovic Champenois",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/lchampenois.jpg",
+    "title": "Google",
+    "twitter": "ludoch"
+  },
+  {
+    "bio": "Chef de projet et développeur.\nEn charge de l'opendata et de la réalisation de dataviz au sein du groupe La Poste. Je pratique assez régulièrement D3 pour créer de l'interactivité autour des données.",
+    "id": 50,
+    "name": "Thomas Fournaise",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/tfournaise.jpg",
+    "title": "La Poste",
+    "twitter": "FournaiseThomas"
+  },
+  {
+    "bio": "Depuis 2013, David Pilato est développeur et évangéliste chez elastic.co, après avoir passé les deux années précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française.",
+    "github": "dadoonet",
+    "id": 51,
+    "name": "David Pilato",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/dpilato.jpg",
+    "title": "Elastic",
+    "twitter": "dadoonet"
+  },
+  {
+    "bio": "Tech Lead Android à Square. J'aime le vin bien structuré et le code tartiné au beurre salé.",
+    "github": "piwai",
+    "id": 52,
+    "name": "Pierre-Yves Ricau",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/pricau.jpg",
+    "title": "Square",
+    "twitter": "piwai"
+  },
+  {
+    "bio": "François Beaufort travaille chez Google pour l'équipe Chrome Apps",
+    "github": "beaufortfrancois",
+    "id": 53,
+    "name": "François Beaufort",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/fbeaufort.jpg",
+    "title": "Google",
+    "website": "https://plus.google.com/u/0/+FrancoisBeaufort"
+  },
+  {
+    "bio": "Thomas Gx est le fondateur de CommitStrip, le blog BD bien connu des codeurs : c'est lui qui écrit chaque jour depuis 2012 une strip sur la vie quotidienne des codeurs. Pionner du développement des réseaux sociaux en France dès 2006 en lançant Cancoon, Thomas co-fonde en 2007 l'agence KRDS, première agence spécialisée en social media marketing et aujourd'hui leader en Europe et en Asie. Il y occupe aujourd'hui la Direction de la Production, dirigeant un studio primé et une équipe de développeurs web ayant produit près de 2000 projets.",
+    "id": 54,
+    "name": "Thomas Gx",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/commitstrip.jpg",
+    "title": "CommitStrip",
+    "twitter": "CommitStrip_fr",
+    "website": "https://www.commitstrip.com/fr/"
+  },
+  {
+    "bio": "Yoann Dubreuil travaille chez CloudBees. A mi-chemin entre développeur et administrateur système, il s'occupe aujourd'hui du maintien de la solution hébergée DEV@cloud après avoir accompagné les clients CloudBees à tirer le meilleur de Jenkins dans l'équipe support. Il participe à l’organisation du BreizhCamp, la conférence à l’ouest.",
+    "id": 55,
+    "name": "Yoann Dubreuil",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ndubreuil.jpg",
+    "title": "Cloudbees",
+    "twitter": "yoanndubreuil"
+  },
+  {
+    "bio": "Ayant la double casquette de webdesigner et d'intégratrice web, la qualité a toujours été un objectif pour moi car il fallait, entre autres, réaliser des maquettes intégrables. Au fil de l'eau, j'ai découvert que la façon dont on écrit le HTML et le CSS a un réel impact que ce soit pour les différents navigateurs mais aussi et surtout pour les personnes en situation de handicap. Je me suis donc tout naturellement orientée vers l'accessibilité web pour essayer, même si ça reste encore assez utopique, de rendre le web meilleur et donc plus accessible.\nJe co-organise, par ailleurs, les Web Apéros Nantais ; un évènement qui vise à se faire rencontrer les acteurs du web nantais.",
+    "id": 56,
+    "name": "Julie Moynat",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jmoynat.jpg",
+    "title": "Capgemini",
+    "twitter": "juliemoynat",
+    "website": "http://www.juliemoynat.fr/"
+  },
+  {
+    "bio": "Développeur Java, Angular JS le jour, bidouilleur la nuit. Après quelques années de bricolage et découvertes, j'ai repris les bases de la programmation il y a 15 ans avec Scratch, que je réutilise avec bonheur maintenant dans les Devoxx4Kids ou les Coding Goûters à Nantes, dont je suis cofondateur. Je suis aussi membre et confondateur des Women In Technology à Nantes.",
+    "github": "JeanPalies",
+    "id": 57,
+    "name": "Jean Palies",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jpalies.jpg",
+    "twitter": "jpalies",
+    "website": "https://javagile.wordpress.com/"
+  },
+  {
+    "bio": "Conquis par les makers et l'univers DIY, Stéphane Cohan est curieux et n'hésite pas à bidouiller des trucs et des machins, notamment autour des interfaces tangibles pour les enfants.\nDans la vraie vie, Stéphane est consultant UI/UX depuis près de 20 ans mais ça n'a rien à voir avec le schmilblick, à moins que...",
+    "id": 58,
+    "name": "Stéphane Cohan",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/scohan.jpg",
+    "title": "SQLI",
+    "twitter": "SCxPro"
+  },
+  {
+    "bio": "Natif de Nantes où il obtient un DUT informatique, il part en Ecosse pur suivre un Master “Learning From Data” à l’université d’Edimbourg. Il reviendra finalement à Nantes pour y effectuer un doctorat dans le domaine de la visualisation d’information au sein de l’équipe Data User Knowledge du Laboratoire Informatique de Nantes Atlantique. Après deux ans passés en tant qu’ingénieur de recherche dans cette même équipe il rejoint la société Expandium en 2015 comme data scientist.",
+    "id": 59,
+    "name": "Nicolas Greffard",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ngreffard.jpg",
+    "title": "Expandium"
+  },
+  {
+    "bio": "Romain est développeur backend chez SFEIR. Depuis un peu plus de 10 ans, il aide les clients dans leurs projets Java, tantôt développeur, tantôt intégrateur. Arrivant chez Sfeir, il est parti regarder du côté de Go et Docker pour ses clients IoT. Il se joint à Sébastien pour partager ses expériences avec vous.",
+    "github": "rlespinasse",
+    "id": 60,
+    "name": "Romain Lespinasse",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/rlespinasse.jpg",
+    "title": "SFEIR",
+    "twitter": "rlespinasse"
+  },
+  {
+    "bio": "Product Owner chez Conserto",
+    "id": 61,
+    "name": "Aurélie Robert",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/arobert.jpg",
+    "title": "Conserto"
+  },
+  {
+    "bio": "DataHero au sein du DataLab Sopra Steria. En charge de missions de développement et d’architecture autour de sujets Big Data.",
+    "id": 62,
+    "name": "Nicolas Terral",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/nterral.jpg",
+    "title": "Sopra Steria"
+  },
+  {
+    "bio": "Consultant chez Zenika Nantes. J'interviens sur des missions de réalisation autour des technos front et back tel que AngularJS, ReactJS et Spring. Passionné par l’écosystème technique dans lequel je travaille je participe régulièrement aux meetups Nantais et donne des talks lors de différents événement (NantesJS, Voxxed Luxembourg, Nantes JUG, bdx.io)",
+    "id": 63,
+    "name": "Antoine Cellier",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/acellier.jpg",
+    "title": "Zenika",
+    "twitter": "AntoineCellier3"
+  },
+  {
+    "bio": "Développeur freelance passionné, Gautier travaille principalement sur les technologies Java et JavaScript. Afin de rester au fait des nouveautés, il participe régulièrement à des conférences nantaises ou nationales. Il coorganise également le Nantes JUG depuis juin 2014.\nAyant appris à dompter l'IDE Eclipse lors de ses premières années de travail, il contribue aujourd'hui à l'amélioration de son outil de travail via des patchs et la formation de ses clients.",
+    "github": "jabby",
+    "id": 64,
+    "name": "Gautier de SAINT MARTIN LACAZE",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/glacaze.jpg",
+    "title": "Freelance",
+    "twitter": "darkjabberwock",
+    "website": "http://jabby-techs.fr/"
+  },
+  {
+    "bio": "Eric développeur Java/J2EE full-stack chez Zenika Nantes. Il aime travailler sur toutes les couches d'une application web, de la base de données jusqu'au front en utilisant aussi bien des technologies qui ont fait leur preuve que des technologies de pointe. Très intéressé par les technologies Cloud (PAAS & IAAS). Il est formateur officiel Docker et co-organisateur du Docker Meetup Nantes.",
+    "id": 65,
+    "name": "Eric Briand",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ebriand.jpg",
+    "title": "Zenika",
+    "twitter": "eric_briand"
+  },
+  {
+    "bio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
+    "github": "cbalit",
+    "id": 66,
+    "name": "Cyril Balit",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/cbalit.jpg",
+    "title": "SFEIR",
+    "twitter": "cbalit"
+  },
+  {
+    "bio": "EZRA (Vincent CHTAÏBI), directeur artistique, est un membre actif et reconnu du beatbox international. Il a foulé les scènes des quatre coins du monde et joué en solo dans les lieux les plus mythiques de France (Olympia, Cigale, Transmusicales…). Ezra développe sa discipline avec des facultés d’adaptation et une aisance scénique qui l’ont amené à collaborer avec des artistes de réputation mondiale (Kid Koala, Bauchklang, Wax Tailor, One self, Socalled…) et de partir en tournée mondiale avec la chanteuse Camille.",
+    "id": 67,
+    "name": "Ezra",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/ezra.jpg",
+    "title": "Organic Orchestra",
+    "twitter": "Ezrabox",
+    "website": "http://organic-orchestra.com"
+  },
+  {
+    "bio": "CTO de Zenika Nantes, Julien navigue entre des missions de formation (Docker, AngularJS, PaaS) et d’architecture. Issu de la génération Google, il a co-fondé en Janvier 2011 le GDG Nantes, participe depuis 5 ans au Google I/O et organise le DevFest Nantes.",
+    "id": 68,
+    "name": "Julien Landuré",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jlandure.jpg",
+    "title": "Zenika",
+    "twitter": "jlandure",
+    "website": "https://plus.google.com/+JulienLandur%C3%A9"
+  },
+  {
+    "bio": "Emile is founder of Containous, the container delivery company. More than 10 years experience developing applications for the web and the industry, certified Docker trainer, he got interested lately in the DevOps method. He is particularly interested container orchestrators like Kubernetes, Mesos, Docker Swarm. Creator of traefik.io",
+    "github": "emilevauge",
+    "id": 69,
+    "name": "Emile Vauge",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/evauge.jpg",
+    "title": "Containo.us",
+    "twitter": "emilevauge"
+  },
+  {
+    "bio": "Raphaël est directeur technique chez Conserto, en charge de l’offre digitale.\nPassionné de culture geek et de jeux en tout genre, Raphäel a découvert la programmation par le jeu vidéo à 10 ans en développant son premier casse-brique en BASIC sur l’Amstrad familial.\nMême si aujourd’hui le développement se fait pour lui dans un contexte beaucoup plus sérieux, coder reste une bonne façon de s’amuser !",
+    "id": 70,
+    "name": "Raphaël Thebaud",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/rthebaud.jpg",
+    "title": "Conserto",
+    "twitter": "raphthebaud"
+  },
+  {
+    "bio": "Ingénieur logiciel avec plus de dix ans d’expérience dans la conception et développement des systèmes d’information pour groupes financiers, entreprises de télécommunications et start-ups en Amérique Latine. Spécialiste dans le domaine du Cloud et du Big Data, Ismael travaille pour Talend comme Ingénieur Open Source et il est contributeur sur plusieurs projets de la fondation Apache.",
+    "github": "@iemejia",
+    "id": 71,
+    "name": "Ismaël Mejía",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/imeja.jpg",
+    "title": "Talend",
+    "twitter": "iemejia"
+  },
+  {
+    "bio": "Membre de l’Apache Software Foundation, Jean-Baptiste est commiter et PMC sur de nombreux projets Apache : Apache Karaf, Apache Camel, Apache ActiveMQ, Apache Falcon, Apache Syncope, Apache Lens,… Il est notamment champion et mentor du projet Apache Beam. Jean-Baptiste est Talend Fellow.",
+    "id": 72,
+    "name": "Jean-Baptiste Onofré",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jonofre.jpg",
+    "title": "Apache",
+    "twitter": "jbonofre",
+    "website": "http://t.co/iXjWyxthOO"
+  },
+  {
+    "bio": "Gautier est développeur Android et aspirant Craftsman. Intéressé par les méthodes agiles, le hacking et la qualité logicielle, il façonne et maintient des outils libres et gratuits permettant d’améliorer sa productivité. Parlez lui de Kotlin, de Clean Code ou de Logiciel Libre et vous pourrez voir ses yeux briller.",
+    "github": "Nilhcem",
+    "id": 73,
+    "name": "Gautier Mechling",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/gmechling.jpg",
+    "title": "",
+    "twitter": "Nilhcem",
+    "website": "https://plus.google.com/+GautierMechling"
+  },
+  {
+    "bio": "Jean-Sébastien Dupuy est évangéliste technique chez Microsoft France. Passionné par le développement d’applications mobiles, les objets connectés et plus récemment les bots, il anime régulièrement des sessions sur ces différents sujets. Vous pouvez suivre son actualité sur twitter @dupuyjs ou sur son blog https://blogs.msdn.microsoft.com/jdupuy/.",
+    "github": "dupuyjs",
+    "id": 74,
+    "name": "Jean-Sébastien DUPUY",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/jdupuy.jpg",
+    "title": "Microsoft",
+    "twitter": "dupuyjs",
+    "website": "https://blogs.msdn.microsoft.com/jdupuy/"
+  },
+  {
+    "bio": "TBD",
+    "id": 75,
+    "name": "Table Ronde 1",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/default.jpg",
+    "title": ""
+  },
+  {
+    "bio": "Christian RENOULIN, peintre amateur mais surtout développeur confirmé chez Néo-Soft depuis plus de 5 ans ! Spécialisé dans la programmation Java/JEE et dans les processus d’intégration continues.\nChristian est impliqué au sein de sa société mais également dans de nombreux projets personnels open source où il met à disposition son expertise et son savoir-faire.\nVoici l’un de ses nombreux projets : https://mieuxtrieranantes.wordpress.com/",
+    "id": 76,
+    "name": "Christian RENOULIN",
+    "photo": "https://devfest.gdgnantes.com/images/speakers/crenoulin.jpg",
+    "title": "Néo-Soft"
   }
 ]
