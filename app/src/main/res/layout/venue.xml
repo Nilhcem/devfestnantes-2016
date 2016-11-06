@@ -57,7 +57,6 @@
             android:layout_marginTop="@dimen/activity_margin"
             android:text="@string/venue_see_rooms"
             android:textColor="@android:color/white"
-            android:visibility="gone"
             app:backgroundTint="?attr/colorAccent"/>
 
         <android.support.v7.widget.AppCompatButton

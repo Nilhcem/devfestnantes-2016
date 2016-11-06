@@ -41,9 +41,9 @@
     <!-- Venue -->
     <string name="venue_see_location">Locate on map</string>
     <string name="venue_see_location_error">Error opening map.\nDo you have Google Maps installed?</string>
-    <string name="venue_title">Nowa Hala EXPO</string>
-    <string name="venue_address">aleja Politechniki 4, 93-590 Łódź</string>
-    <string name="venue_info">\nMobilization is a conference dedicated to mobile technologies. The main scope is development of mobile solutions aimed at smartphones and tablets, with particular interest in Android and iOS mobile platforms.\n\nThis is 6th edtion of the conference organised by Java User Group Łódź community for the Community.\n</string>
+    <string name="venue_title">Cité des Congrès, Nantes</string>
+    <string name="venue_address">5 rue de Valmy, 44041 Nantes</string>
+    <string name="venue_info">\nSituée en plein cœur de ville, La Cité des Congrès de Nantes propose pour le DevFest Nantes plus de 1000m² de salles de conférences, codelabs et lieu de rencontre…\n</string>
     <string name="venue_see_rooms">Rooms Plans</string>
 
     <!-- Settings -->
