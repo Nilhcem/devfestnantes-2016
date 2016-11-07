@@ -4,7 +4,7 @@
     "github": "ndeloof",
     "id": 1,
     "name": "Nicolas De Loof",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ndeloof.jpg",
+    "photo": "https://prismic-io.s3.amazonaws.com/dvxfrance/bb430c10164d4126faf4779c808617405315c14a_img_0084.jpg",
     "title": "Cloudbees",
     "twitter": "ndeloof"
   },
@@ -13,7 +13,7 @@
     "github": "manekinekko",
     "id": 2,
     "name": "Wassim Chegham",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/wchegham.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/734861801431674883/S93LQYOa.jpg",
     "title": "SFEIR",
     "twitter": "manekinekko",
     "website": "https://plus.google.com/u/0/+WassimCheghamJavaScript"
@@ -23,7 +23,7 @@
     "github": "cyrilmottier",
     "id": 3,
     "name": "Cyril Mottier",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/cmottier.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/425559011409158144/yrccrk4F_400x400.jpeg",
     "title": "Captain Train",
     "twitter": "cyrilmottier",
     "website": "http://cyrilmottier.com"
@@ -32,7 +32,7 @@
     "bio": "Architecte logiciel au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client, expertise technique.",
     "id": 4,
     "name": "Vincent Ogloblinsky",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/vogloblinsky.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/1847781003/Rothko3_copy_400x400.jpg",
     "title": "SII",
     "twitter": "vogloblinsky",
     "website": "https://plus.google.com/110496959767269301776"
@@ -42,7 +42,7 @@
     "github": "atomrc",
     "id": 5,
     "name": "Thomas Belin",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/tbelin.jpg",
+    "photo": "http://www.gravatar.com/avatar/56f2389bd912f388cc79874ce65fc0dc?s=200",
     "title": "doyoubuzz",
     "twitter": "atomrc",
     "website": "http://blog.thomasbelin.fr"
@@ -52,7 +52,7 @@
     "github": "fteychene",
     "id": 6,
     "name": "Francois Teychene",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/fteychene.jpg",
+    "photo": "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAAAeA/laex6frLlLc/photo.jpg?sz=360",
     "title": "Tabmo",
     "twitter": "fteychene",
     "website": "https://plus.google.com/u/0/+Fran%C3%A7oisTeychene"
@@ -62,7 +62,7 @@
     "github": "raphaelgoetter",
     "id": 7,
     "name": "Raphael Goetter",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/rgoetter.jpg",
+    "photo": "http://www.goetter.fr/assets/img/raphael.jpg",
     "title": "Alsacréations",
     "twitter": "goetter",
     "website": "http://goetter.fr"
@@ -71,7 +71,7 @@
     "bio": "Je suis un passionné d'UX et d'interfaces, mais aussi de jeux vidéo, de robots, et de toute la culture geek, en général. Je travaille chez Microsoft France en tant qu'évangéliste design/UX et UI.",
     "id": 8,
     "name": "Michel Rousseau",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/mrousseau.jpg",
+    "photo": "http://galilee.blob.core.windows.net/speaker-mstd2014/1f11ccc9f25b4f96a0e4ce525156f82b.jpg",
     "title": "Microsoft",
     "twitter": "rousseau_michel"
   },
@@ -80,7 +80,7 @@
     "github": "olaurendeau",
     "id": 9,
     "name": "Olivier Laurendeau",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/olaurendeau.jpg",
+    "photo": "https://yt3.ggpht.com/-lK8RFyU_-es/AAAAAAAAAAI/AAAAAAAAAAA/ykmSELLDFt4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
     "title": "LaFourchette"
   },
   {
@@ -88,7 +88,7 @@
     "github": "sunix",
     "id": 10,
     "name": "Sun Seng David TAN",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/stan.jpg",
+    "photo": "https://avatars1.githubusercontent.com/u/650571?v=3&s=400",
     "title": "Serli",
     "twitter": "sunsengdavidtan",
     "website": "http://blog.sunix.org"
@@ -98,7 +98,7 @@
     "github": "Gillespie59",
     "id": 11,
     "name": "Emmanuel DEMEY",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/edemey.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/628190699951923200/vS3yoC1K.jpg",
     "title": "Zenika",
     "twitter": "EmmanuelDemey"
   },
@@ -107,7 +107,7 @@
     "github": "jefbinomed",
     "id": 12,
     "name": "Jean-François Garreau",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jgarreau.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/532518561210589184/PeaV4PI8_400x400.jpeg",
     "title": "Lucca",
     "twitter": "jefbinomed",
     "website": "https://jefbinomed.fr"
@@ -116,7 +116,7 @@
     "bio": "Expert AccessiWeb en évaluation",
     "id": 13,
     "name": "Nathalie Rolland",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/nrolland.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/1850312618/instantane.jpg",
     "title": "Indépendante",
     "twitter": "nroll82"
   },
@@ -125,7 +125,7 @@
     "github": "antoine-richard",
     "id": 14,
     "name": "Antoine Richard",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/arichard.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/708654238755364864/mXSdo0UU.jpg",
     "title": "Restlet",
     "twitter": "richard_antoine"
   },
@@ -133,7 +133,7 @@
     "bio": "ai un but : aider les équipes à produire des logiciels utiles aux utilisateurs finaux. Pour cela, je les accompagne en intégrant les équipes de développement ou en les assistant dans leur transition agile. Impliquée dans la communauté agile nantaise, je participe également à l'organisation de l'Agile Tour de Nantes. Femme développeuse, je suis également co-fondatrice du groupe Women In Technology à Nantes, dont le but est de promouvoir les femmes dans la technique. Dans ce cadre, je participe également aux initiations à la programmation à destination des enfants avec des initiatives telles que les Devoxx4Kids ou les coding goûters.",
     "id": 15,
     "name": "Cécilia Bossard",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/cbossard.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/2212897799/cecilia_400x400.png",
     "twitter": "ceciliaBossard",
     "website": "https://javagile.wordpress.com/"
   },
@@ -141,7 +141,7 @@
     "bio": "Geek à toute heure, Guillaume Membré travaille principalement autour des technologies Java/JavaEE mais aussi sur des problématiques d'intégration continue, de qualimétrie. Mission après mission sur Nantes, il a eu l'occasion d'avoir une expérience diversifiée qui l'a amenée à occuper différentes responsabilités, à faire dèv et de l'infra, et maintenant de la mise en place d'outils devops.",
     "id": 16,
     "name": "Guillaume Membré",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/gmembre.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/667293346704986112/oBqFQlbM.jpg",
     "title": "Zenika",
     "twitter": "GuillaumeMembre",
     "website": "http://www.monbook.tech"
@@ -151,7 +151,7 @@
     "github": "JeffAbrahamson",
     "id": 17,
     "name": "Jeff Abrahamson",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jabrahamson.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/3176479924/1bb83d535b54c80859ea70c15b83fd81_400x400.jpeg",
     "title": "Jellybooks",
     "twitter": "Jeff_Abrahamson",
     "website": "https://google.com/+JeffAbrahamson"
@@ -169,7 +169,7 @@
     "bio": "Je suis développeur depuis 2001.\nJe me suis lancé dans l'aventure Android en 2011 et suis en mode \"one man startup\" sur des applications indépendantes depuis 2014.",
     "id": 19,
     "name": "Pierre Benayoun",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/pbenayoun.jpg",
+    "photo": "http://www.frandroid.com/blogs/vmvdd/wp-content/uploads/sites/120/2015/03/moa1-300x300.png",
     "title": "Le cabinet numérique",
     "twitter": "Pierre_Benayoun",
     "website": "https://plus.google.com/+PierreBenayoun"
@@ -186,7 +186,7 @@
     "bio": "Développeur Java passionné chez Ippon Technologies depuis plus d'1 an.\nJe me suis focalisé ces derniers temps sur le monitoring avec ELK, le développement de microservices avec SpringBoot, et un peu de DevOps avec la gestion dynamique d'une plateforme de production avec Docker et Mesos.",
     "id": 21,
     "name": "Jérémie Monsinjon",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jmonsinjon.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWOAAAAJDlkODlmYjEwLTY1MmYtNGZlYi1iMWVlLTIyYWVjMWExYmIwMQ.jpg",
     "twitter": "jmonsinjon",
     "website": "https://plus.google.com/108876182616078672534"
   },
@@ -195,7 +195,7 @@
     "github": "tytouf",
     "id": 22,
     "name": "Christophe Augier",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/caugier.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAiRAAAAJDI4Y2JhODkxLTljY2YtNDU1ZS05YjIxLTM1OWI5MTBkNmIwOA.jpg",
     "twitter": "tytouf"
   },
   {
@@ -203,7 +203,7 @@
     "github": "k33g",
     "id": 23,
     "name": "Philippe Charrière",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/pcharriere.jpg",
+    "photo": "https://avatars0.githubusercontent.com/u/491848?v=3&s=466",
     "title": "GitHub",
     "twitter": "k33g_org",
     "website": "https://github.com/k33g/files"
@@ -212,7 +212,7 @@
     "bio": "Olivier Guillet développe depuis plus de 15 ans : jeux vidéos, sites internet ou applications mobiles, le plus souvent sur des technologies web. Egalement passionné de réalité virtuelle, réalité augmentée et innovations en tout genre, aux frontières de l'informatiques et du cyberpunk.",
     "id": 24,
     "name": "Olivier Guillet",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/oguillet.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/679084020362305536/h-OkGRXd.png",
     "title": "Emotic",
     "twitter": "OlivierGuillet"
   },
@@ -221,7 +221,7 @@
     "github": "sebastienfr",
     "id": 25,
     "name": "Sébastien Friess",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/sfriess.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/665317887889027072/O59YCi4b.jpg",
     "title": "SFEIR",
     "twitter": "sebastienfriess",
     "website": "https://sebastienfr.fr/"
@@ -231,7 +231,7 @@
     "github": "kbiger",
     "id": 26,
     "name": "Kevin Biger",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/kbiger.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/771326213696651264/4-TbYgU9.jpg",
     "title": "SQLI",
     "twitter": "kevin_biger",
     "website": "https://plus.google.com/+KevinBiger"
@@ -240,7 +240,7 @@
     "bio": "Passionné d’informatique et tombé dedans tout petit je suis actuellement formateur, coach agile chez Conserto.",
     "id": 27,
     "name": "GILLES BRIEUX",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/gbrieux.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/0b1/0e6/2aea91a.jpg",
     "title": "Conserto",
     "website": "gbrieux"
   },
@@ -249,7 +249,7 @@
     "github": "jpbriend",
     "id": 28,
     "name": "Jean-Philippe Briend",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jbriend.png",
+    "photo": "https://pbs.twimg.com/profile_images/738741645257134080/NmttuYOM.jpg",
     "title": "CloudBees",
     "twitter": "jpbriend"
   },
@@ -258,7 +258,7 @@
     "github": "ptitfred",
     "id": 29,
     "name": "Frédéric Menou",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/fmenou.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAe1AAAAJDBiMWNkNTdlLTE1NzgtNGRjZi04NjExLTQwZDA5NjRjM2ZjYg.jpg",
     "title": "FretLink",
     "twitter": "ptit_fred"
   },
@@ -267,7 +267,7 @@
     "github": "rainbowbreeze",
     "id": 30,
     "name": "Morresi Alfredo",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/amorresi.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/19e/27d/047f14a.jpg",
     "title": "Google",
     "twitter": "rainbowbreeze"
   },
@@ -275,7 +275,7 @@
     "bio": "Romain est développeur depuis plus de 15 ans et a été CTO dans une startup (Connecthings) et pour une solution d'un grand groupe (Orange). Passé  par le web et les backend, il est maintenant concentré sur l'innovation et l'environnement mobile. Il est également organisateur au Paris Android User Group et un des fondateurs de Droidcon Paris.",
     "github": "romemore",
     "id": 31,
-    "name": "Menetrier Romain",
+    "name": "Romain Menetrier",
     "photo": "https://devfest.gdgnantes.com/images/speakers/rmenetrier.jpg",
     "twitter": "romemore",
     "website": "RomainMenetrier"
@@ -285,7 +285,7 @@
     "github": "nicolasgarnier",
     "id": 32,
     "name": "Nicolas Garnier",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ngarnier.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/525393323129716736/N4CBWJGK.jpeg",
     "title": "Google",
     "twitter": "nivco",
     "website": "https://google.com/+NicolasGarnier"
@@ -295,7 +295,7 @@
     "github": "hgwood",
     "id": 33,
     "name": "Hugo Wood",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/hwood.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/0b6/2dc/0754e4c.jpg",
     "title": "Zenika",
     "twitter": "mercury_wood"
   },
@@ -311,7 +311,7 @@
     "github": "bbonnin",
     "id": 35,
     "name": "Bruno Bonnin",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/bbonnin.jpg",
+    "photo": "http://web2day.co/wp-content/uploads/2016/06/1908593-300x300-235x235.png",
     "twitter": "_bruno_b_"
   },
   {
@@ -319,7 +319,7 @@
     "github": "benjaminfontaine",
     "id": 36,
     "name": "Benjamin Fontaine",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/bfontaine.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/706850472834043906/lTmNmJ4O.jpg",
     "title": "Zenika",
     "twitter": "benjifontaine5",
     "website": "https://plus.google.com/100218727706940554885"
@@ -329,7 +329,7 @@
     "github": "mbarbero",
     "id": 37,
     "name": "Mikaël Barbero",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/mbarbero.jpg",
+    "photo": "https://avatars0.githubusercontent.com/u/452625?v=3&s=466",
     "title": "Eclipse Foundation Europe GmbH",
     "twitter": "mikbarbero",
     "website": "http://mikael-barbero.tumblr.com"
@@ -338,7 +338,7 @@
     "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
     "id": 38,
     "name": "Didier Girard",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/dgirard.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/768549574554312704/bZJdgS17.jpg",
     "title": "SFEIR",
     "twitter": "DidierGirard"
   },
@@ -346,7 +346,7 @@
     "bio": "Je suis actuellement DevOps chez Sparklane, premier éditeur français de solutions d’intelligence commerciale et marketing dédiées au marché B2B, en France et en Europe.\nPour garantir la performance et la haute disponibilité des solutions BigData de la société, j’ai en charge la définition de l’architecture Cloud, la mise en œuvre et le maintien en conditions opérationnelles de l’ensemble des plateformes.\nDans le cloud Amazon (AWS), nous déployons et organisons nos composants dans des technologies fiables et managées : Docker, Rancher, pour assurer performance et haute disponibilité.",
     "id": 39,
     "name": "Olivier Bierlaire",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/obierlaire.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAX1AAAAJDI0OThjZjZkLWVkM2MtNDRjOC1hODgxLWI1MGFiZjQzYzY5Zg.jpg",
     "title": "Sparklane",
     "twitter": "obierlaire"
   },
@@ -355,7 +355,7 @@
     "github": "fabienjuif",
     "id": 40,
     "name": "Fabien JUIF",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/fjuif.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAdoAAAAJDI1OGM4NzMyLWFjNzUtNDFlNi1iMDA5LTZmZjBmMDNhZDI1Zg.jpg",
     "title": "Zenika"
   },
   {
@@ -363,7 +363,7 @@
     "github": "janjongboom",
     "id": 41,
     "name": "Jan Jongboom",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jjongboom.jpg",
+    "photo": "http://janjongboom.com/speaker-photo.png",
     "title": "ARM",
     "twitter": "janjongboom",
     "website": "http://janjongboom.com"
@@ -380,7 +380,7 @@
     "github": "acateland",
     "id": 43,
     "name": "Axel Cateland",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/acateland.jpg",
+    "photo": "https://avatars3.githubusercontent.com/u/19344650?v=3&s=400",
     "title": "Talend",
     "twitter": "catelandaxel",
     "website": "google.com/+axelcateland"
@@ -390,7 +390,7 @@
     "github": "hasalex",
     "id": 44,
     "name": "Alexis Hassler",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ahassler.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/554585218795855873/alzLWtvN.png",
     "twitter": "AlexisHassler"
   },
   {
@@ -407,7 +407,7 @@
     "github": "tagazok",
     "id": 46,
     "name": "Olivier Leplus",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/oleplus.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/028/010/21f8546.jpg",
     "title": "Google",
     "twitter": "olivierleplus"
   },
@@ -415,7 +415,7 @@
     "bio": "Matthieu Gioani, consultant, designer & facilitateur, accompagne les équipes projet et les managers sur les problématiques de design, d’émergence des besoins et d’innovation depuis plus de 6 ans.",
     "id": 47,
     "name": "Matthieu Gioani",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/mgioani.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeNAAAAJDU1NGU2ZTljLWQ5MmEtNDFmNy1hMTZmLTU4M2ExNzcyZDg4Mw.jpg",
     "twitter": "Matt_Gio",
     "website": "http://www.design-en-entreprise.fr/"
   },
@@ -424,7 +424,7 @@
     "github": "LostInBrittany",
     "id": 48,
     "name": "Horacio Gonzalez",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/hgonzalez.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAIQAAAAJDU3NmNhZjc2LTU4NTItNDE2YS05ZDU5LTljYmIwM2QyNTFhOQ.jpg",
     "title": "Cityzen Data",
     "twitter": "+LostInBrittany",
     "website": "https://plus.google.com/u/0/+LostInBrittany"
@@ -434,7 +434,7 @@
     "github": "ludoch",
     "id": 49,
     "name": "Ludovic Champenois",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/lchampenois.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/3655128695/dbe78af2c80e6a114c85acb6ab1cedfa_400x400.jpeg",
     "title": "Google",
     "twitter": "ludoch"
   },
@@ -442,7 +442,7 @@
     "bio": "Chef de projet et développeur.\nEn charge de l'opendata et de la réalisation de dataviz au sein du groupe La Poste. Je pratique assez régulièrement D3 pour créer de l'interactivité autour des données.",
     "id": 50,
     "name": "Thomas Fournaise",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/tfournaise.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/537329173891522560/Zx9F5Lyu.jpeg",
     "title": "La Poste",
     "twitter": "FournaiseThomas"
   },
@@ -451,7 +451,7 @@
     "github": "dadoonet",
     "id": 51,
     "name": "David Pilato",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/dpilato.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/742604452054638592/dK7TyzKc.jpg",
     "title": "Elastic",
     "twitter": "dadoonet"
   },
@@ -460,7 +460,7 @@
     "github": "piwai",
     "id": 52,
     "name": "Pierre-Yves Ricau",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/pricau.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/090/296/08bc228.jpg",
     "title": "Square",
     "twitter": "piwai"
   },
@@ -469,7 +469,7 @@
     "github": "beaufortfrancois",
     "id": 53,
     "name": "François Beaufort",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/fbeaufort.jpg",
+    "photo": "https://avatars0.githubusercontent.com/u/634478?v=3&s=400",
     "title": "Google",
     "website": "https://plus.google.com/u/0/+FrancoisBeaufort"
   },
@@ -477,7 +477,7 @@
     "bio": "Thomas Gx est le fondateur de CommitStrip, le blog BD bien connu des codeurs : c'est lui qui écrit chaque jour depuis 2012 une strip sur la vie quotidienne des codeurs. Pionner du développement des réseaux sociaux en France dès 2006 en lançant Cancoon, Thomas co-fonde en 2007 l'agence KRDS, première agence spécialisée en social media marketing et aujourd'hui leader en Europe et en Asie. Il y occupe aujourd'hui la Direction de la Production, dirigeant un studio primé et une équipe de développeurs web ayant produit près de 2000 projets.",
     "id": 54,
     "name": "Thomas Gx",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/commitstrip.jpg",
+    "photo": "http://jf-blog.fr/wp-content/uploads/2015/09/commitstrip.png",
     "title": "CommitStrip",
     "twitter": "CommitStrip_fr",
     "website": "https://www.commitstrip.com/fr/"
@@ -486,7 +486,7 @@
     "bio": "Yoann Dubreuil travaille chez CloudBees. A mi-chemin entre développeur et administrateur système, il s'occupe aujourd'hui du maintien de la solution hébergée DEV@cloud après avoir accompagné les clients CloudBees à tirer le meilleur de Jenkins dans l'équipe support. Il participe à l’organisation du BreizhCamp, la conférence à l’ouest.",
     "id": 55,
     "name": "Yoann Dubreuil",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ndubreuil.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/09a/0a8/17e1bce.jpg",
     "title": "Cloudbees",
     "twitter": "yoanndubreuil"
   },
@@ -494,7 +494,7 @@
     "bio": "Ayant la double casquette de webdesigner et d'intégratrice web, la qualité a toujours été un objectif pour moi car il fallait, entre autres, réaliser des maquettes intégrables. Au fil de l'eau, j'ai découvert que la façon dont on écrit le HTML et le CSS a un réel impact que ce soit pour les différents navigateurs mais aussi et surtout pour les personnes en situation de handicap. Je me suis donc tout naturellement orientée vers l'accessibilité web pour essayer, même si ça reste encore assez utopique, de rendre le web meilleur et donc plus accessible.\nJe co-organise, par ailleurs, les Web Apéros Nantais ; un évènement qui vise à se faire rencontrer les acteurs du web nantais.",
     "id": 56,
     "name": "Julie Moynat",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jmoynat.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/219/1f5/1e18566.jpg",
     "title": "Capgemini",
     "twitter": "juliemoynat",
     "website": "http://www.juliemoynat.fr/"
@@ -512,7 +512,7 @@
     "bio": "Conquis par les makers et l'univers DIY, Stéphane Cohan est curieux et n'hésite pas à bidouiller des trucs et des machins, notamment autour des interfaces tangibles pour les enfants.\nDans la vraie vie, Stéphane est consultant UI/UX depuis près de 20 ans mais ça n'a rien à voir avec le schmilblick, à moins que...",
     "id": 58,
     "name": "Stéphane Cohan",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/scohan.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/055/3d8/0c002ff.jpg",
     "title": "SQLI",
     "twitter": "SCxPro"
   },
@@ -520,7 +520,7 @@
     "bio": "Natif de Nantes où il obtient un DUT informatique, il part en Ecosse pur suivre un Master “Learning From Data” à l’université d’Edimbourg. Il reviendra finalement à Nantes pour y effectuer un doctorat dans le domaine de la visualisation d’information au sein de l’équipe Data User Knowledge du Laboratoire Informatique de Nantes Atlantique. Après deux ans passés en tant qu’ingénieur de recherche dans cette même équipe il rejoint la société Expandium en 2015 comme data scientist.",
     "id": 59,
     "name": "Nicolas Greffard",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ngreffard.jpg",
+    "photo": "https://lh5.googleusercontent.com/-63h1XQcT1Bk/AAAAAAAAAAI/AAAAAAAAE1k/aWjnMN3Vw_A/photo.jpg",
     "title": "Expandium"
   },
   {
@@ -528,7 +528,7 @@
     "github": "rlespinasse",
     "id": 60,
     "name": "Romain Lespinasse",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/rlespinasse.jpg",
+    "photo": "https://lh3.googleusercontent.com/-CDlBsRla75E/V6GwAW3cECI/AAAAAAAAAqM/lP47jz5MQgkxeiOG1lFtWvwYinc5hACQACCo/s640/RomainLespinasse.jpg",
     "title": "SFEIR",
     "twitter": "rlespinasse"
   },
@@ -543,14 +543,14 @@
     "bio": "DataHero au sein du DataLab Sopra Steria. En charge de missions de développement et d’architecture autour de sujets Big Data.",
     "id": 62,
     "name": "Nicolas Terral",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/nterral.jpg",
+    "photo": "http://static8.viadeo-static.com/yn06Rd5gxwfbQtG6z5aXGL0C9dY=/140x185/smart/member/00227j1m85id6dw1?ts=1461237726000",
     "title": "Sopra Steria"
   },
   {
     "bio": "Consultant chez Zenika Nantes. J'interviens sur des missions de réalisation autour des technos front et back tel que AngularJS, ReactJS et Spring. Passionné par l’écosystème technique dans lequel je travaille je participe régulièrement aux meetups Nantais et donne des talks lors de différents événement (NantesJS, Voxxed Luxembourg, Nantes JUG, bdx.io)",
     "id": 63,
     "name": "Antoine Cellier",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/acellier.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/574861361165025280/PexlGhxx.jpeg",
     "title": "Zenika",
     "twitter": "AntoineCellier3"
   },
@@ -559,7 +559,7 @@
     "github": "jabby",
     "id": 64,
     "name": "Gautier de SAINT MARTIN LACAZE",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/glacaze.jpg",
+    "photo": "http://static8.viadeo-static.com/FBRmk_gvivWByGAjxw5UsbQoU1Y=/140x185/smart/member/00223e4zy3xrl1k7?ts=1371237898000",
     "title": "Freelance",
     "twitter": "darkjabberwock",
     "website": "http://jabby-techs.fr/"
@@ -568,7 +568,7 @@
     "bio": "Eric développeur Java/J2EE full-stack chez Zenika Nantes. Il aime travailler sur toutes les couches d'une application web, de la base de données jusqu'au front en utilisant aussi bien des technologies qui ont fait leur preuve que des technologies de pointe. Très intéressé par les technologies Cloud (PAAS & IAAS). Il est formateur officiel Docker et co-organisateur du Docker Meetup Nantes.",
     "id": 65,
     "name": "Eric Briand",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ebriand.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/037/0f0/178d139.jpg",
     "title": "Zenika",
     "twitter": "eric_briand"
   },
@@ -577,7 +577,7 @@
     "github": "cbalit",
     "id": 66,
     "name": "Cyril Balit",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/cbalit.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/461117864078876672/VrrFRKUH.jpeg",
     "title": "SFEIR",
     "twitter": "cbalit"
   },
@@ -585,7 +585,7 @@
     "bio": "EZRA (Vincent CHTAÏBI), directeur artistique, est un membre actif et reconnu du beatbox international. Il a foulé les scènes des quatre coins du monde et joué en solo dans les lieux les plus mythiques de France (Olympia, Cigale, Transmusicales…). Ezra développe sa discipline avec des facultés d’adaptation et une aisance scénique qui l’ont amené à collaborer avec des artistes de réputation mondiale (Kid Koala, Bauchklang, Wax Tailor, One self, Socalled…) et de partir en tournée mondiale avec la chanteuse Camille.",
     "id": 67,
     "name": "Ezra",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/ezra.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/2186589880/ez_avatar.png",
     "title": "Organic Orchestra",
     "twitter": "Ezrabox",
     "website": "http://organic-orchestra.com"
@@ -594,7 +594,7 @@
     "bio": "CTO de Zenika Nantes, Julien navigue entre des missions de formation (Docker, AngularJS, PaaS) et d’architecture. Issu de la génération Google, il a co-fondé en Janvier 2011 le GDG Nantes, participe depuis 5 ans au Google I/O et organise le DevFest Nantes.",
     "id": 68,
     "name": "Julien Landuré",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jlandure.jpg",
+    "photo": "http://web2day.co/wp-content/uploads/2016/06/Julien-Landure%CC%81-235x235.jpg",
     "title": "Zenika",
     "twitter": "jlandure",
     "website": "https://plus.google.com/+JulienLandur%C3%A9"
@@ -604,7 +604,7 @@
     "github": "emilevauge",
     "id": 69,
     "name": "Emile Vauge",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/evauge.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkaAAAAJDA4NDM3MWVhLWJlYWMtNGIxYy05ZTk2LTdlZGZmNzFiOGQ3Ng.jpg",
     "title": "Containo.us",
     "twitter": "emilevauge"
   },
@@ -612,7 +612,7 @@
     "bio": "Raphaël est directeur technique chez Conserto, en charge de l’offre digitale.\nPassionné de culture geek et de jeux en tout genre, Raphäel a découvert la programmation par le jeu vidéo à 10 ans en développant son premier casse-brique en BASIC sur l’Amstrad familial.\nMême si aujourd’hui le développement se fait pour lui dans un contexte beaucoup plus sérieux, coder reste une bonne façon de s’amuser !",
     "id": 70,
     "name": "Raphaël Thebaud",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/rthebaud.jpg",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAC6AAAAJDVhM2YxOGJkLTM2OGUtNDMzOS05MGY5LTVhNmI4YjdmZWViZA.jpg",
     "title": "Conserto",
     "twitter": "raphthebaud"
   },
@@ -621,7 +621,7 @@
     "github": "@iemejia",
     "id": 71,
     "name": "Ismaël Mejía",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/imeja.jpg",
+    "photo": "http://web.emn.fr/x-info/imejia09/media/profile_picture.jpg",
     "title": "Talend",
     "twitter": "iemejia"
   },
@@ -629,7 +629,7 @@
     "bio": "Membre de l’Apache Software Foundation, Jean-Baptiste est commiter et PMC sur de nombreux projets Apache : Apache Karaf, Apache Camel, Apache ActiveMQ, Apache Falcon, Apache Syncope, Apache Lens,… Il est notamment champion et mentor du projet Apache Beam. Jean-Baptiste est Talend Fellow.",
     "id": 72,
     "name": "Jean-Baptiste Onofré",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jonofre.jpg",
+    "photo": "http://people.apache.org/~jbonofre/me.jpg",
     "title": "Apache",
     "twitter": "jbonofre",
     "website": "http://t.co/iXjWyxthOO"
@@ -639,7 +639,7 @@
     "github": "Nilhcem",
     "id": 73,
     "name": "Gautier Mechling",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/gmechling.jpg",
+    "photo": "https://lh5.googleusercontent.com/-XMS12Sp9jUA/AAAAAAAAAAI/AAAAAAABmqI/tuVp7XFzvbM/photo.jpg",
     "title": "",
     "twitter": "Nilhcem",
     "website": "https://plus.google.com/+GautierMechling"
@@ -649,7 +649,7 @@
     "github": "dupuyjs",
     "id": 74,
     "name": "Jean-Sébastien DUPUY",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/jdupuy.jpg",
+    "photo": "https://pbs.twimg.com/profile_images/451380382961635328/YzVy5ao2.jpeg",
     "title": "Microsoft",
     "twitter": "dupuyjs",
     "website": "https://blogs.msdn.microsoft.com/jdupuy/"
