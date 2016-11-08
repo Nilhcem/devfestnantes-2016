@@ -62,7 +62,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[Android screenshots]: https://raw.githubusercontent.com/Nilhcem/mobilization-2016/master/assets/screenshots/screenshots.jpg
+[Android screenshots]: https://raw.githubusercontent.com/Nilhcem/devfestnantes-2016/master/assets/screenshots/screenshots.jpg
 [droidcon PL 2015 mobile app]: https://github.com/droidconpl/droidcon-2015-mobile-app
 [Google I/O app]: https://github.com/google/iosched
 [DroidKaigi 2016 app]: https://github.com/konifar/droidkaigi2016/
