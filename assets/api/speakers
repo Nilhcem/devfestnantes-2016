@@ -103,7 +103,7 @@
     "twitter": "EmmanuelDemey"
   },
   {
-    "bio": "Je suis développeur depuis 10 ans. J'ai évolué pendant longtemps sur des stack java et android. Depuis maintenant 3 ans je m’intéresse plus en profondeur au Web et à ses nouvelles possibilités. J'ai ainsi optenu le status de GDE (Google Developer Expert) cette année sur la partie WebTechnology. En dehors du travail, je suis co-fondateur du GDG Nantes, organisateur du DevFest Nantes, co-créateur des Nantes Wit et organisateur de Devoxx4Kids ",
+    "bio": "Je suis développeur depuis 10 ans. J'ai évolué pendant longtemps sur des stack java et android. Depuis maintenant 3 ans je m’intéresse plus en profondeur au Web et à ses nouvelles possibilités. J'ai ainsi obtenu le statut de GDE (Google Developer Expert) cette année sur la partie WebTechnology. En dehors du travail, je suis co-fondateur du GDG Nantes, organisateur du DevFest Nantes, co-créateur des Nantes Wit et organisateur de Devoxx4Kids ",
     "github": "jefbinomed",
     "id": 12,
     "name": "Jean-François Garreau",
@@ -183,12 +183,13 @@
     "title": "Expandium"
   },
   {
-    "bio": "Développeur Java passionné chez Ippon Technologies depuis plus d'1 an.\nJe me suis focalisé ces derniers temps sur le monitoring avec ELK, le développement de microservices avec SpringBoot, et un peu de DevOps avec la gestion dynamique d'une plateforme de production avec Docker et Mesos.",
+    "bio": "Architecte chez Ippon Technologies Bordeaux depuis Janvier 2013, je m'intéresse depuis quelques années à l'émergence des micro-services et ai pu bâtir une solution s'appuyant sur cette architecture depuis près de deux ans.\nLa mise à l'échelle de ce type d'architecture et la responsabilitation des équipes de développements m'amènent à expérimenter de nouvelles organisations et de nouveaux outils.",
+    "github": "stephlag",
     "id": 21,
-    "name": "Jérémie Monsinjon",
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWOAAAAJDlkODlmYjEwLTY1MmYtNGZlYi1iMWVlLTIyYWVjMWExYmIwMQ.jpg",
-    "twitter": "jmonsinjon",
-    "website": "https://plus.google.com/108876182616078672534"
+    "name": "Stéphane Lagraulet",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/2cc/3efae7d.jpg",
+    "title": "Ippon Technologies",
+    "twitter": "stephlag"
   },
   {
     "bio": "Après 5 ans à développer des hyperviseurs pour les systèmes embarquées et un cours passage en SSII je m'occupe à depuis 5 ans du développement du debugger intégré à Simics une solution de simulation de cartes électroniques multi-architectures et plus récemment du développement d'outils Cloud pour ce dernier.\nInscrit dans le mouvement Software Craftmanship j'essaie au jour le jour d'améliorer mes pratiques et celles de mon équipe.\nQuand il me reste un peu de temps, j'anime des ateliers pour Makerspace56 une association que j'ai co-fondé en 2012, un pilier du FabLab de Vannes.",
@@ -408,7 +409,6 @@
     "id": 46,
     "name": "Olivier Leplus",
     "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/028/010/21f8546.jpg",
-    "title": "Google",
     "twitter": "olivierleplus"
   },
   {
@@ -655,11 +655,14 @@
     "website": "https://blogs.msdn.microsoft.com/jdupuy/"
   },
   {
-    "bio": "TBD",
+    "bio": "Ancien militaire parachutiste, je me suis reconverti dans l'informatique ou j'ai très vite rejoint la société Santéclair en tant que développeur puis en tant qu’architecte (mais bon je fais toujours le même boulot qu'avant... ). Féru de développement (comme vous à priori si vous lisez ces lignes), j'aime remettre en question l'ordre établi (ce doit être une résurgence de mes années sous les drapeaux) et relever des challenges permanents.",
+    "github": "telligcirdec",
     "id": 75,
-    "name": "Table Ronde 1",
-    "photo": "https://devfest.gdgnantes.com/images/speakers/default.jpg",
-    "title": ""
+    "name": "Cédric Gillet",
+    "photo": "https://pbs.twimg.com/profile_images/598052639792857088/BXEHw5J3.jpg",
+    "title": "Santéclair",
+    "twitter": "telligcirdec",
+    "website": "https://plus.google.com/u/0/108192160837556609422/posts"
   },
   {
     "bio": "Christian RENOULIN, peintre amateur mais surtout développeur confirmé chez Néo-Soft depuis plus de 5 ans ! Spécialisé dans la programmation Java/JEE et dans les processus d’intégration continues.\nChristian est impliqué au sein de sa société mais également dans de nombreux projets personnels open source où il met à disposition son expertise et son savoir-faire.\nVoici l’un de ses nombreux projets : https://mieuxtrieranantes.wordpress.com/",

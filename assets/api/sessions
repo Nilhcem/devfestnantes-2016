@@ -24,11 +24,12 @@
     "title": "Déjeuner / Lunch"
   },
   {
+    "description": "Cette année l’After Party est organisé par notre partenaires U GIE IRIS (Système U).\nElle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Mercredi 9 Novembre.\nRetrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...\nVenez nombreux !!",
     "duration": 270,
     "id": 4,
     "roomId": 0,
     "startAt": "2016-11-09 18:30",
-    "title": "After party"
+    "title": "After Party"
   },
   {
     "duration": 110,
@@ -56,6 +57,7 @@
     "title": "Devfest4Kids"
   },
   {
+    "description": "Durant mes années de service au sein de l'armée, j'ai eu l'occasion d'être sélectionné pour intégrer les Groupements Commando Parachutistes. J'ai donc suivi la formation inhérente à cette unité spéciale sans me douter alors que je retrouverai dans ma deuxième vie, dans le civil, des similitudes entre le management d'une équipe commando et ce que préconise DevOps.\nLe parallèle m'est apparu comme évident lors d'un stage que j'ai suivi sur DevOps. Dans cette conférence, je me propose de présenter les méthodes de management d'une section commando et comment ses méthodes sont en fait très proches des méthodes de management DevOps : une équipe restreinte, géographiquement proche, des profiles experts et polycompétents, des missions de courte durée, une qualité assurée tout au long de la mission, un commandement à l'exemplarité et au delà du galon, favoriser le groupe et la culture, créer de la cohésion, encourager les initiatives et l'entraide dans le groupe, s'adapter rapidement aux imprévus.\nEn somme, faire du DevOps comme dans une unité commando ! Pour finir, je citerai les premiers mots d'un chant commando qui résume assez l'état d'esprit qui animera cette conférence : \"La route vers l'inconnu est toujours bienvenu, le but est devant nous, braquons les armes, la défaillance exclue, plus rien ne compte plus, pour nous c'est le devoir pour vous les larmes !\"",
     "duration": 50,
     "id": 8,
     "roomId": 2,
@@ -63,7 +65,7 @@
       75
     ],
     "startAt": "2016-11-10 10:10",
-    "title": "Table ronde / Round table"
+    "title": "Du DevOps chez les Commandos"
   },
   {
     "duration": 50,
@@ -274,7 +276,7 @@
     "title": "Babylon.js : Le gaming, le web, l'open source et autres considérations."
   },
   {
-    "description": "Après une brève présentation de ce qu'est RabbitMQ, des services qu'il peut rendre, de l'usage qu'on en fait à LaFourchette et de comment il s'installe. Construisons ensemble une application permettant à l'internaute de générer un lourd PDF qu'il reçoive par email tout en étant notifié sur l'application une fois que l'envoi est achevé.\nUne base de code assez simple en php sera fournie, il s'agira de modifier l'application gérant toutes les opérations en une requête bloquante pour y inclure de l'asynchronisme avec RabbitMQ. Des tests fonctionnels permettront de valider les étapes au fur et à mesure de l'atelier.",
+    "description": "Après une brève présentation de ce qu'est RabbitMQ, des services qu'il peut rendre, de l'usage qu'on en fait à LaFourchette et de comment il s'installe. Construisons ensemble une application permettant à l'internaute de générer un lourd PDF qu'il reçoive par email tout en étant notifié sur l'application une fois que l'envoi est achevé.\nUne base de code assez simple en php sera fournie, il s'agira de modifier l'application gérant toutes les opérations en une requête bloquante pour y inclure de l'asynchronisme avec RabbitMQ. Des tests fonctionnels permettront de valider les étapes au fur et à mesure de l'atelier.\nVenez avec votre ordinateur portable ! Pour éviter de surcharger le réseau de la cité des congrès suivez la procédure d'installation sur https://github.com/olaurendeau/rabbitmq-workshop !",
     "duration": 50,
     "id": 28,
     "roomId": 5,
@@ -282,7 +284,7 @@
       9
     ],
     "startAt": "2016-11-09 14:00",
-    "title": "Codelab RabbitMQ"
+    "title": "Codelab découvrir RabbitMQ"
   },
   {
     "description": "At Eclipse, new actors are challenging the classic Eclipse IDE:\n- Che: the next gen Eclipse Cloud, brings the developer workspace and the IDE on your browser\n- Orion: an extensible browser IDE\n- Flux: a new message based architecture for cloud based developer tooling\nThese technologies open a lot of new kind of features such as real time live collaboration.\nDuring this session, I will live demo of a prototype showing real time collaboration from 3 different IDEs. The prototype will use a Flux server running inside a Che docker workspace that will allow Orion, Eclipse IDE and Che editors to edit the same file in real time like in Google Docs. Come with your laptop, your phone or tablet and join our pair programming session!",
@@ -445,7 +447,7 @@
     "title": "Rust pour l'IOT? Retour d'expérience de Rust sur micro-controlleurs"
   },
   {
-    "description": "La notion d'import/export de modules d'Ecmascript 6 est une fonctionnalité très appréciable et attendue depuis longtemps de manière native dans le langage.\nLes packageurs \"Webpack 2\" et \"Rollup.js\" comportent une fonctionnalité elle aussi très intéressante appelée \"tree-shaking\". Celle-ci permet d'obtenir un \"bundle\" final plus léger en ne sélectionnant que le code \"utile\" en production.\nNous allons découvrir dans ce quickie :\n- les avantages de cette approche par rapport à l'approche traditionnelle de l'élimination de code des optimisateurs de code Javascript comme UglifyJs par exemple.\n- un exemple simple d'utilisation avec Webpack 2 et Rollup.js\n- un autre exemple avec l'utilisation de la librairie moment.js ré-écrite en 2015 en Ecmascript 6",
+    "description": "La notion d'import/export de modules d'Ecmascript 6 est une fonctionnalité très appréciable et attendue depuis longtemps de manière native dans le langage.\nLes packageurs \"Webpack 2\" et \"Rollup.js\" comportent une fonctionnalité elle aussi très intéressante appelée \"tree-shaking\". Celle-ci permet d'obtenir un \"bundle\" final plus léger en ne sélectionnant que le code \"utile\" en production.\nNous allons découvrir dans ce quickie :\n- les avantages de cette approche par rapport à l'approche traditionnelle de l'élimination de code des optimisateurs de code Javascript comme UglifyJs par exemple.\n- un exemple simple d'utilisation avec Webpack 2 et Rollup.js\n- un autre exemple avec l'utilisation de la librairie lodash ré-écrite en 2015 en Ecmascript 6",
     "duration": 20,
     "id": 43,
     "roomId": 1,
@@ -454,17 +456,6 @@
     ],
     "startAt": "2016-11-09 17:50",
     "title": "Tree shaking - Déployer encore moins de code en production"
-  },
-  {
-    "description": "Le meilleur moyen de comprendre l'intégration continue ... C'est de coder son propre serveur de CI ... En JavaScript parce que c'est mieux (que quoi?).\nNous allons vous expliquer:\n- les \"grands principes\" de l'intégration continue\n- Comment dans un 1er temps s'abonner aux évènements générés par votre gestion de sources (au hasard nous utiliserons GitHub)\n- Comment  \"dire\"  à votre gestion de sources \"Hey! C'est bon, tu peux merger!\" ou \"Arff! C'est pas top, il faudrait revoir 2,3 trucs\" (Utilisation des API)\n- installer le projet\n- lancer les tests\n- modifier les status en fonction des résultats\n- Comment utiliser un script de votre repository pour expliquer à votre serveur les actions qu'il doit lancer (Comme les \"Jenkins Pipeline as Code\" en Groovy )\n- Comment faire interagir votre serveur de CI avec  Hubot et Slack\n- Et si il reste un peu de temps, nous parlerons déploiement\nA la fin du talk, vous devriez savoir refaire la même chose avec votre propre langage.",
-    "duration": 50,
-    "id": 44,
-    "roomId": 3,
-    "speakersId": [
-      23
-    ],
-    "startAt": "2016-11-09 15:10",
-    "title": "Coder son \"mini\" serveur d'intégration continue en JavaScript"
   },
   {
     "description": "WebVR est une future norme du W3C, en phase de draft actuellement.\nIl s'agit d'une API Javascript expérimentale qui permet d’utiliser le navigateur web de votre ordinateur ou de votre mobile directement dans votre casque de réalité virtuelle, que ce soit depuis un Google Cardboard, un Oculus Rift ou un HTC Vive.",
@@ -579,7 +570,7 @@
     "title": "De 0 à 5 millions : retour d'experience sur la création d'un SDK mobile"
   },
   {
-    "description": "Bientôt la description mais pour sûr, c'est un talk sur des nouveautés Firebase. Plus d'infos la semaine du DevFest ;)",
+    "description": "Nous verrons comment Firebase et Cloud Functions de Google permettent de développer des applications web entièrement \"Serverless\" avec :• Persistance de données dans le cloud\n• Echange de données en temps réel\n• Management et Authentification des utilisateurs\n• Sécurisé avec gestion des droits d'access\n• Des Microservices: envoi de notifications, générations de miniatures...\nCela donc sans avoir a gérer d'infrastructure et sans avoir a écrire votre propre Middleware ! En utilisant des service Firebase et Google Cloud interdépendant mais aussi indépendant.\nFirebase est une plateforme de \"Backend-as-a-Service\" offerte par Google et Google Cloud Function un \"Functions-as-a-Service\" qui, combinés, permettent de développer des applications d'architecture \"Serverless\" permettant de concentrer ses efforts de développement sur l'interface client.",
     "duration": 50,
     "id": 55,
     "roomId": 1,
@@ -587,7 +578,7 @@
       32
     ],
     "startAt": "2016-11-10 10:10",
-    "title": "Talk Firebase"
+    "title": "Firebase et Google Cloud Functions : vos applis sans serveurs / \"serverless\""
   },
   {
     "description": "L’hégémonie de l’architecture REST est ébranlée par de nouveaux venus : GraphQL de Facebook et Falcor de Netflix. Comment ces deux technologies peuvent-elles nous aider à développer des applications web plus rapidement ?\nNous commencerons par une rapide introduction de GraphQL et Falcor : le concept qui se cache derrière, leurs objectifs, ainsi que leur place dans nos architectures client-serveur.\nNous vous proposerons ensuite de développer une application mobile de transport en commun avec REST, GraphQL et Falcor afin de comparer l’impact de ces technologies sur les propriétés du code et les coûts de développement. Cette comparaison sera assistée par un outil de traduction de requêtes, conçu par nos soins.",
@@ -735,7 +726,7 @@
     "title": "Jigsaw est prêt à tuer le classpath Java"
   },
   {
-    "description": "D’un côté, nous avons la communauté web qui maintient un écosystème riche permettant de construire des interfaces utilisateurs rapidement malgré des problématiques cross-browser très contraignantes. De l’autre côté, l’écosystème desktop possède des outils très performants mais qui demandent beaucoup d’investissement. Github s’est retroussé les manches pour tirer le meilleur des deux mondes et a créé Electron ! Electron, c’est la possibilité de construire des applications grâce à ES2015 et NodeJs avec pour seul navigateur à supporter Chromium dans sa dernière version.  Et ce n’est pas tout, un ensemble d’API est aussi mis à votre disposition pour faciliter les interactions avec la machine.\nAu cours de ce codelab, nous allons développer une application meme generator et découvrir ensemble les raisons du succès grandissant d’Electron. Nous verrons à travers cet atelier tout ce que le framework offre en matière de packaging, de mises à jour automatiques et de stratégies de testing.",
+    "description": "D’un côté, nous avons la communauté web qui maintient un écosystème riche permettant de construire des interfaces utilisateurs rapidement malgré des problématiques cross-browser très contraignantes. De l’autre côté, l’écosystème desktop possède des outils très performants mais qui demandent beaucoup d’investissement. Github s’est retroussé les manches pour tirer le meilleur des deux mondes et a créé Electron ! Electron, c’est la possibilité de construire des applications grâce à ES2015 et NodeJs avec pour seul navigateur à supporter Chromium dans sa dernière version.  Et ce n’est pas tout, un ensemble d’API est aussi mis à votre disposition pour faciliter les interactions avec la machine.\nAu cours de ce codelab, nous allons développer une application meme generator et découvrir ensemble les raisons du succès grandissant d’Electron. Nous verrons à travers cet atelier tout ce que le framework offre en matière de packaging, de mises à jour automatiques et de stratégies de testing.\nPas de prérequis pour ce workshop autre qu'avoir une machine sous Windows/Linux/Mac OS. Nous vous fournirons sur place toutes les dépendances du workshop pour que le tout se passe de manière fluide.",
     "duration": 50,
     "id": 69,
     "roomId": 6,
