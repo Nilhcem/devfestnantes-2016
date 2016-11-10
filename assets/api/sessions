@@ -109,7 +109,7 @@
   },
   {
     "description": "Dans la logique des logiciels libres, les données libres ! Publiées par les collectivités voire parfois des entreprises, ces données numériques sont libres d'utilisation. Elles sont nombreuses sur Nantes, sur le département et la région.\nQuelles sont ces données, comment les utiliser, peut-on y contribuer ? A quoi servent les licences ? Comment s'organise le recensement et l'harmonisation des jeux de données au niveau national ? Qu'est-ce qu'un Hackaton, Etalab, Wikidata ?\nNous verrons notamment le cas pratique autour d’une application qui utilise et publie des données.",
-    "duration": 50,
+    "duration": 20,
     "id": 13,
     "roomId": 4,
     "speakersId": [
@@ -189,7 +189,7 @@
   },
   {
     "description": "Ce talk est une présentation du projet Angular 2 Universal. Universal est un module officiel d'Angular 2 permettant d'ajouter le support du server-rendering à vos web apps. En d'autres termes, avec Angular Universal il sera possible d'éxecuter une même application Angular 2 côté client et côté serveur. Avant, nous avions l'isomorphisme, avec Angular 2 nous avons l'universalisme. Si tu veux savoir comment Angular 2 gère l'universalité ne rate pas cette de session.",
-    "duration": 50,
+    "duration": 20,
     "id": 20,
     "roomId": 1,
     "speakersId": [
@@ -605,7 +605,7 @@
   },
   {
     "description": "NodeJS devient incontournable (ou presque !) et JavaScript est votre langage de prédilection, mais vous êtes déçu de devoir (re)faire du Java pour traiter vos données avec Spark ?\nAlors, venez découvrir EclairJS, un projet permettant de développer en JavaScript vos traitements de données à destination de Spark. Encore une bonne raison de laisser tomber Java !",
-    "duration": 50,
+    "duration": 20,
     "id": 58,
     "roomId": 2,
     "speakersId": [
@@ -694,7 +694,7 @@
   },
   {
     "description": "Dans cette présentation, nous allons découvrir le framework QML au travers du développement d’une application complexe. IHM adaptative, shaders, vidéo, fluidité graphique sont au rendez-vous.",
-    "duration": 50,
+    "duration": 20,
     "id": 66,
     "roomId": 3,
     "speakersId": [
